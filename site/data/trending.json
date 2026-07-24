@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-24T05:59:29Z",
+ "updated_at": "2026-07-24T06:01:12Z",
  "since": "daily",
  "languages": {
   "all": [
@@ -9,8 +9,8 @@
     "url": "https://github.com/block/buzz",
     "description": "Star block / buzz A hive mind communication platform",
     "language": "Rust",
-    "stars": 7537,
-    "forks": 598,
+    "stars": 7539,
+    "forks": 599,
     "stars_today": 2162
    },
    {
@@ -19,7 +19,7 @@
     "url": "https://github.com/koala73/worldmonitor",
     "description": "Star koala73 / worldmonitor Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
     "language": "TypeScript",
-    "stars": 72053,
+    "stars": 72057,
     "forks": 10840,
     "stars_today": 3175
    },
@@ -29,7 +29,7 @@
     "url": "https://github.com/shiyu-coder/Kronos",
     "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets",
     "language": "Python",
-    "stars": 33195,
+    "stars": 33196,
     "forks": 5657,
     "stars_today": 401
    },
@@ -49,7 +49,7 @@
     "url": "https://github.com/citrolabs/ego-lite",
     "description": "Star citrolabs / ego-lite The best browser for both you and your AI agents work in parallel.",
     "language": "JavaScript",
-    "stars": 1873,
+    "stars": 1877,
     "forks": 101,
     "stars_today": 247
    },
@@ -59,7 +59,7 @@
     "url": "https://github.com/chrislgarry/Apollo-11",
     "description": "Sponsor Star chrislgarry / Apollo-11 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
     "language": "Assembly",
-    "stars": 71179,
+    "stars": 71180,
     "forks": 7924,
     "stars_today": 592
    },
@@ -69,8 +69,8 @@
     "url": "https://github.com/diegosouzapw/OmniRoute",
     "description": "Sponsor Star diegosouzapw / OmniRoute Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works wi",
     "language": "TypeScript",
-    "stars": 27588,
-    "forks": 3614,
+    "stars": 27594,
+    "forks": 3615,
     "stars_today": 1929
    },
    {
@@ -79,7 +79,7 @@
     "url": "https://github.com/ComposioHQ/awesome-claude-skills",
     "description": "Star ComposioHQ / awesome-claude-skills A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
     "language": "Python",
-    "stars": 69576,
+    "stars": 69578,
     "forks": 7863,
     "stars_today": 636
    },
@@ -89,7 +89,7 @@
     "url": "https://github.com/earthtojake/text-to-cad",
     "description": "Star earthtojake / text-to-cad A collection of agent skills for CAD, robotics and hardware design",
     "language": "JavaScript",
-    "stars": 10128,
+    "stars": 10129,
     "forks": 1110,
     "stars_today": 230
    },
@@ -99,7 +99,7 @@
     "url": "https://github.com/agegr/pi-web",
     "description": "Star agegr / pi-web Web UI for the pi coding agent",
     "language": "TypeScript",
-    "stars": 2464,
+    "stars": 2466,
     "forks": 335,
     "stars_today": 315
    },
@@ -109,7 +109,7 @@
     "url": "https://github.com/alibaba/open-code-review",
     "description": "Star alibaba / open-code-review Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built",
     "language": "Go",
-    "stars": 11797,
+    "stars": 11803,
     "forks": 813,
     "stars_today": 180
    },
@@ -119,8 +119,8 @@
     "url": "https://github.com/ruvnet/RuView",
     "description": "Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "language": "Rust",
-    "stars": 85375,
-    "forks": 11391,
+    "stars": 85377,
+    "forks": 11392,
     "stars_today": 1708
    },
    {
@@ -140,7 +140,7 @@
     "description": "Star Automattic / harper Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
     "language": "Rust",
     "stars": 12498,
-    "forks": 465,
+    "forks": 466,
     "stars_today": 624
    },
    {
@@ -149,7 +149,7 @@
     "url": "https://github.com/jellyfin/jellyfin",
     "description": "Star jellyfin / jellyfin The Free Software Media System - Server Backend &amp; API",
     "language": "C#",
-    "stars": 54809,
+    "stars": 54810,
     "forks": 5169,
     "stars_today": 66
    }
@@ -161,7 +161,7 @@
     "url": "https://github.com/shiyu-coder/Kronos",
     "description": "Star shiyu-coder / Kronos Kronos: A Foundation Model for the Language of Financial Markets",
     "language": "Python",
-    "stars": 33195,
+    "stars": 33196,
     "forks": 5657,
     "stars_today": 401
    },
@@ -171,7 +171,7 @@
     "url": "https://github.com/ComposioHQ/awesome-claude-skills",
     "description": "Star ComposioHQ / awesome-claude-skills A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
     "language": "Python",
-    "stars": 69576,
+    "stars": 69578,
     "forks": 7863,
     "stars_today": 636
    },
@@ -181,7 +181,7 @@
     "url": "https://github.com/microsoft/SkillOpt",
     "description": "Star microsoft / SkillOpt SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployabl",
     "language": "Python",
-    "stars": 14809,
+    "stars": 14810,
     "forks": 1365,
     "stars_today": 337
    },
@@ -241,7 +241,7 @@
     "url": "https://github.com/vnpy/vnpy",
     "description": "Star vnpy / vnpy 基于Python的开源量化交易平台开发框架",
     "language": "Python",
-    "stars": 43818,
+    "stars": 43819,
     "forks": 12234,
     "stars_today": 129
    },
@@ -273,7 +273,7 @@
     "url": "https://github.com/citrolabs/ego-lite",
     "description": "Star citrolabs / ego-lite The best browser for both you and your AI agents work in parallel.",
     "language": "JavaScript",
-    "stars": 1873,
+    "stars": 1877,
     "forks": 101,
     "stars_today": 247
    },
@@ -283,7 +283,7 @@
     "url": "https://github.com/earthtojake/text-to-cad",
     "description": "Star earthtojake / text-to-cad A collection of agent skills for CAD, robotics and hardware design",
     "language": "JavaScript",
-    "stars": 10128,
+    "stars": 10129,
     "forks": 1110,
     "stars_today": 230
    },
@@ -435,7 +435,7 @@
     "url": "https://github.com/alibaba/open-code-review",
     "description": "Star alibaba / open-code-review Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built",
     "language": "Go",
-    "stars": 11797,
+    "stars": 11803,
     "forks": 813,
     "stars_today": 180
    },
@@ -445,7 +445,7 @@
     "url": "https://github.com/schollz/croc",
     "description": "Sponsor Star schollz / croc Easily and securely send things from one computer to another 🐊 📦",
     "language": "Go",
-    "stars": 38137,
+    "stars": 38138,
     "forks": 1513,
     "stars_today": 797
    },
@@ -615,7 +615,7 @@
     "url": "https://github.com/glanceapp/glance",
     "description": "Sponsor Star glanceapp / glance A self-hosted dashboard that puts all your feeds in one place",
     "language": "Go",
-    "stars": 35921,
+    "stars": 35923,
     "forks": 1384,
     "stars_today": 39
    },
