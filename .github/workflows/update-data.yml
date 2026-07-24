@@ -1,0 +1,28 @@
+name: Update dashboard data
+
+on:
+  schedule:
+    - cron: '23 */6 * * *' # 每 6 小时(避开整点高峰)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch data(零第三方依赖)
+        run: python3 crawler/fetch_data.py
+      - name: Commit if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add site/data
+          git diff --cached --quiet && echo '数据无变化' && exit 0
+          git commit -m "chore: update dashboard data [skip ci]"
+          git push

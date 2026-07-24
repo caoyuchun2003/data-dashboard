@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>开源热度看板 · Open Source Pulse</title>
+    <meta name="description" content="GitHub Trending 与 Hacker News 实时热度大屏,定时自动抓取,零服务器成本。" />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="grid-bg" aria-hidden="true"></div>
+
+    <header class="top">
+      <div class="brand">
+        <span class="pulse-dot" aria-hidden="true"></span>
+        <h1>开源热度看板 <span class="en">Open Source Pulse</span></h1>
+      </div>
+      <div class="meta">
+        <span>数据来源:GitHub Trending / Hacker News</span>
+        <span id="updated">更新时间:—</span>
+      </div>
+    </header>
+
+    <main class="board">
+      <!-- 统计卡片 -->
+      <section class="stats" id="stats" aria-label="统计概览"></section>
+
+      <!-- 图表区 -->
+      <section class="charts">
+        <div class="panel wide">
+          <h2>今日狂飙 TOP 10 <small>按今日新增 Star</small></h2>
+          <div id="chart-top" class="chart"></div>
+        </div>
+        <div class="panel">
+          <h2>语言分布 <small>Trending 全榜</small></h2>
+          <div id="chart-lang" class="chart"></div>
+        </div>
+        <div class="panel">
+          <h2>HN 热度分布 <small>Top 30 分数</small></h2>
+          <div id="chart-hn" class="chart"></div>
+        </div>
+      </section>
+
+      <!-- 榜单 -->
+      <section class="tables">
+        <div class="panel">
+          <h2>GitHub Trending <small>今日全语言榜</small></h2>
+          <div class="tbl" id="tbl-trending"></div>
+        </div>
+        <div class="panel">
+          <h2>Hacker News <small>Top Stories</small></h2>
+          <div class="tbl" id="tbl-hn"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="foot">
+      GitHub Actions 定时抓取 · GitHub Pages 托管 · 零服务器成本 ·
+      <a href="https://yuchuntest.com/" target="_blank" rel="noopener">yuchuntest.com</a>
+    </footer>
+
+    <script src="./vendor/echarts.min.js"></script>
+    <script>
+      // vendor 文件缺失时兜底走 npmmirror CDN(国内可达)
+      if (!window.echarts) {
+        document.write(
+          '<script src="https://registry.npmmirror.com/echarts/5.5.1/files/dist/echarts.min.js"><\/script>'
+        )
+      }
+    </script>
+    <script src="./app.js"></script>
+  </body>
+</html>
