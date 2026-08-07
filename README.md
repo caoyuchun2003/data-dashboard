@@ -17,6 +17,8 @@ GitHub Actions(cron 每 6 小时)
 
 亮点:整条管线没有一台服务器——Actions 当定时器和爬虫机,Pages 当托管,数据即代码(JSON 进 Git,天然有历史版本)。
 
+> 注意:数据提交**不要**带 `[skip ci]`,否则 Pages 不会重新发布,线上会停在旧数据。
+
 ## 本地运行
 
 ```bash

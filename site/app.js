@@ -5,12 +5,76 @@
   var COLORS = ['#3fd0ff', '#8b7bff', '#3fe08f', '#ffc857', '#ff7eb6', '#6ee7d8', '#c3b0ff', '#93c5fd'];
   var AXIS = { color: '#7d8ab0', fontFamily: 'Menlo, monospace', fontSize: 11 };
   var SPLIT = { lineStyle: { color: 'rgba(80,120,220,0.12)' } };
+  var LANG_LABEL = { all: '今日全语言榜', python: 'Python 榜', javascript: 'JavaScript 榜', go: 'Go 榜' };
+
+  var charts = [];
+  var byList = {};
 
   function el(id) { return document.getElementById(id); }
 
   function fmt(n) {
     if (n >= 10000) return (n / 1000).toFixed(1) + 'k';
     return String(n);
+  }
+
+  function esc(s) {
+    return String(s || '').replace(/[&<>"]/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
+    });
+  }
+
+  function mapRepos(list, key) {
+    return (list || []).map(function (r) {
+      return {
+        repo: r.name,
+        url: r.url,
+        desc: r.description,
+        lang: r.language || '其他',
+        stars: r.stars || 0,
+        stars_today: r.stars_today || 0,
+        list: key,
+      };
+    });
+  }
+
+  function formatUpdated(iso) {
+    if (!iso) return '更新时间:—';
+    var d = new Date(iso);
+    if (isNaN(d.getTime())) return '更新时间:' + iso;
+    try {
+      var local = new Intl.DateTimeFormat('zh-CN', {
+        timeZone: 'Asia/Shanghai',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: false,
+      }).format(d);
+      return '更新时间:' + local + ' (北京时间)';
+    } catch (e) {
+      return '更新时间:' + iso.replace('T', ' ').replace('Z', ' UTC');
+    }
+  }
+
+  function setFreshness(iso) {
+    var node = el('fresh');
+    if (!iso) {
+      node.textContent = '数据状态未知';
+      node.className = 'fresh stale';
+      return;
+    }
+    var ageH = (Date.now() - new Date(iso).getTime()) / 3600000;
+    if (ageH < 8) {
+      node.textContent = '数据新鲜';
+      node.className = 'fresh ok';
+    } else if (ageH < 24) {
+      node.textContent = '约 ' + Math.round(ageH) + ' 小时前';
+      node.className = 'fresh mid';
+    } else {
+      node.textContent = '已超过一天未更新';
+      node.className = 'fresh stale';
+    }
   }
 
   function statCard(label, value, sub) {
@@ -21,12 +85,6 @@
     );
   }
 
-  function esc(s) {
-    return String(s || '').replace(/[&<>"]/g, function (c) {
-      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
-    });
-  }
-
   function renderStats(repos, stories) {
     var todayStars = repos.reduce(function (s, r) { return s + (r.stars_today || 0); }, 0);
     var langs = {};
@@ -35,8 +93,8 @@
       ? Math.round(stories.reduce(function (s, x) { return s + x.score; }, 0) / stories.length)
       : 0;
     el('stats').innerHTML =
-      statCard('TRENDING 仓库', fmt(repos.length), '全语言 + Python / JS / Go 榜') +
-      statCard('今日新增 STAR', fmt(todayStars), '各榜单合计') +
+      statCard('TRENDING 仓库', fmt(repos.length), '全语言日榜') +
+      statCard('今日新增 STAR', fmt(todayStars), '全语言榜合计(去重)') +
       statCard('上榜语言', fmt(Object.keys(langs).length), '含 ' + Object.keys(langs).slice(0, 3).join(' / ')) +
       statCard('HN 平均热度', fmt(avgScore), 'Top ' + stories.length + ' 平均分');
   }
@@ -149,70 +207,80 @@
     return chart;
   }
 
-  function renderTrendingTable(repos) {
-    var seen = {};
-    var rows = repos
-      .filter(function (r) { return r.list === 'all' && !seen[r.repo] && (seen[r.repo] = 1); })
-      .slice(0, 25);
-    el('tbl-trending').innerHTML = rows
+  function renderTrendingTable(lang) {
+    var repos = byList[lang] || byList.all || [];
+    var label = el('tbl-trending-label');
+    if (label) label.textContent = LANG_LABEL[lang] || lang;
+    el('tbl-trending').innerHTML = repos
+      .slice(0, 25)
       .map(function (r, i) {
         return (
           '<a class="row" href="' + esc(r.url) + '" target="_blank" rel="noopener">' +
           '<span class="rank">' + String(i + 1).padStart(2, '0') + '</span>' +
           '<span class="main"><span class="name">' + esc(r.repo) +
-          '</span><span class="desc">' + esc(r.desc || r.lang) + '</span></span>' +
+          '</span><span class="desc">' + esc(r.desc || r.lang) +
+          (r.lang ? ' · ' + esc(r.lang) : '') + '</span></span>' +
           '<span class="num">★ ' + fmt(r.stars) + ' <em style="color:#ffc857;font-style:normal">+' +
           fmt(r.stars_today) + '</em></span></a>'
         );
       })
-      .join('');
+      .join('') || '<p class="empty">该语言暂无数据</p>';
   }
 
   function renderHnTable(stories) {
     el('tbl-hn').innerHTML = stories
       .slice(0, 25)
       .map(function (s) {
+        var href = s.url || s.comments_url || '#';
+        var cmt = s.comments_url
+          ? '<a class="cmt" href="' + esc(s.comments_url) + '" target="_blank" rel="noopener">' +
+            s.comments + ' 评论</a>'
+          : (s.comments + ' 评论');
         return (
-          '<a class="row" href="' + esc(s.url) + '" target="_blank" rel="noopener">' +
+          '<div class="row hn-row">' +
           '<span class="rank">' + String(s.rank).padStart(2, '0') + '</span>' +
-          '<span class="main"><span class="name">' + esc(s.title) +
-          '</span><span class="desc">by ' + esc(s.by) + ' · ' + s.comments +
-          ' 评论</span></span>' +
-          '<span class="num">▲ ' + s.score + '</span></a>'
+          '<span class="main">' +
+          '<a class="name" href="' + esc(href) + '" target="_blank" rel="noopener">' + esc(s.title) + '</a>' +
+          '<span class="desc">by ' + esc(s.by) + ' · ' + cmt + '</span></span>' +
+          '<span class="num">▲ ' + s.score + '</span></div>'
         );
       })
       .join('');
   }
 
+  function bindTabs() {
+    var tabs = el('lang-tabs');
+    if (!tabs) return;
+    tabs.addEventListener('click', function (e) {
+      var btn = e.target.closest('.tab');
+      if (!btn) return;
+      tabs.querySelectorAll('.tab').forEach(function (t) { t.classList.remove('on'); });
+      btn.classList.add('on');
+      renderTrendingTable(btn.getAttribute('data-lang'));
+    });
+  }
+
   Promise.all([
-    fetch('./data/trending.json').then(function (r) { return r.json(); }),
-    fetch('./data/hn.json').then(function (r) { return r.json(); }),
+    fetch('./data/trending.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }),
+    fetch('./data/hn.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }),
   ])
     .then(function (res) {
       var trending = res[0];
       var hn = res[1];
-      // trending.json 按语言分组:{languages: {all: [...], python: [...]}}
-      var repos = [];
-      Object.keys(trending.languages || {}).forEach(function (key) {
-        (trending.languages[key] || []).forEach(function (r) {
-          repos.push({
-            repo: r.name,
-            url: r.url,
-            desc: r.description,
-            lang: r.language || '其他',
-            stars: r.stars || 0,
-            stars_today: r.stars_today || 0,
-            list: key,
-          });
-        });
+      var languages = trending.languages || {};
+      byList = {};
+      Object.keys(languages).forEach(function (key) {
+        byList[key] = mapRepos(languages[key], key);
       });
-      el('updated').textContent =
-        '更新时间:' +
-        String(trending.updated_at || '—').replace('T', ' ').replace('Z', ' UTC');
-      renderStats(repos, hn.stories);
-      var charts = [renderTop(repos), renderLang(repos), renderHn(hn.stories)];
-      renderTrendingTable(repos);
-      renderHnTable(hn.stories);
+      // 图表与统计只用 all,避免多语言榜重复累加
+      var allRepos = byList.all || [];
+      el('updated').textContent = formatUpdated(trending.updated_at);
+      setFreshness(trending.updated_at);
+      renderStats(allRepos, hn.stories || []);
+      charts = [renderTop(allRepos), renderLang(allRepos), renderHn(hn.stories || [])];
+      renderTrendingTable('all');
+      renderHnTable(hn.stories || []);
+      bindTabs();
       window.addEventListener('resize', function () {
         charts.forEach(function (c) { c.resize(); });
       });
@@ -221,5 +289,7 @@
       el('stats').innerHTML =
         '<div class="stat"><span class="label">数据加载失败</span><span class="sub">' +
         esc(err.message) + ' — 请先运行 python3 crawler/fetch_data.py</span></div>';
+      el('fresh').textContent = '加载失败';
+      el('fresh').className = 'fresh stale';
     });
 })();

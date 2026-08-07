@@ -4,7 +4,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>开源热度看板 · Open Source Pulse</title>
-    <meta name="description" content="GitHub Trending 与 Hacker News 实时热度大屏,定时自动抓取,零服务器成本。" />
+    <meta
+      name="description"
+      content="GitHub Trending 与 Hacker News 热度大屏。GitHub Actions 定时抓取,Pages 托管,零服务器成本。"
+    />
+    <meta property="og:title" content="开源热度看板 · Open Source Pulse" />
+    <meta
+      property="og:description"
+      content="GitHub Trending + Hacker News 实时热度可视化。爬虫 / 定时任务 / ECharts 作品集演示。"
+    />
+    <meta property="og:type" content="website" />
+    <meta name="theme-color" content="#0a0f1e" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='8' fill='%233fe08f'/%3E%3C/svg%3E"
+    />
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
@@ -16,16 +30,20 @@
         <h1>开源热度看板 <span class="en">Open Source Pulse</span></h1>
       </div>
       <div class="meta">
-        <span>数据来源:GitHub Trending / Hacker News</span>
+        <span>GitHub Trending / Hacker News</span>
+        <span id="fresh" class="fresh">—</span>
         <span id="updated">更新时间:—</span>
       </div>
     </header>
 
     <main class="board">
-      <!-- 统计卡片 -->
-      <section class="stats" id="stats" aria-label="统计概览"></section>
+      <section class="stats" id="stats" aria-label="统计概览">
+        <div class="stat sk"><span class="label">加载中</span><span class="value">···</span></div>
+        <div class="stat sk"><span class="label">加载中</span><span class="value">···</span></div>
+        <div class="stat sk"><span class="label">加载中</span><span class="value">···</span></div>
+        <div class="stat sk"><span class="label">加载中</span><span class="value">···</span></div>
+      </section>
 
-      <!-- 图表区 -->
       <section class="charts">
         <div class="panel wide">
           <h2>今日狂飙 TOP 10 <small>按今日新增 Star</small></h2>
@@ -41,10 +59,17 @@
         </div>
       </section>
 
-      <!-- 榜单 -->
       <section class="tables">
         <div class="panel">
-          <h2>GitHub Trending <small>今日全语言榜</small></h2>
+          <div class="panel-head">
+            <h2>GitHub Trending <small id="tbl-trending-label">今日全语言榜</small></h2>
+            <div class="tabs" id="lang-tabs" role="tablist" aria-label="语言筛选">
+              <button type="button" class="tab on" data-lang="all">全部</button>
+              <button type="button" class="tab" data-lang="python">Python</button>
+              <button type="button" class="tab" data-lang="javascript">JS</button>
+              <button type="button" class="tab" data-lang="go">Go</button>
+            </div>
+          </div>
           <div class="tbl" id="tbl-trending"></div>
         </div>
         <div class="panel">
@@ -55,13 +80,14 @@
     </main>
 
     <footer class="foot">
-      GitHub Actions 定时抓取 · GitHub Pages 托管 · 零服务器成本 ·
+      Actions 每 6 小时抓取 · Pages 托管 · 零服务器成本 ·
       <a href="https://yuchuntest.com/" target="_blank" rel="noopener">yuchuntest.com</a>
+      ·
+      <a href="https://github.com/caoyuchun2003/data-dashboard" target="_blank" rel="noopener">源码</a>
     </footer>
 
     <script src="./vendor/echarts.min.js"></script>
     <script>
-      // vendor 文件缺失时兜底走 npmmirror CDN(国内可达)
       if (!window.echarts) {
         document.write(
           '<script src="https://registry.npmmirror.com/echarts/5.5.1/files/dist/echarts.min.js"><\/script>'
