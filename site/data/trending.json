@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T13:05:46Z",
+ "updated_at": "2026-08-16T18:51:24Z",
  "since": "daily",
  "languages": {
   "all": [
@@ -9,8 +9,8 @@
     "url": "https://github.com/cordiverse/cordis",
     "description": "Star cordiverse / cordis Meta-Framework of Spatiotemporal Composability",
     "language": "TypeScript",
-    "stars": 4445,
-    "forks": 222,
+    "stars": 4618,
+    "forks": 240,
     "stars_today": 719
    },
    {
@@ -19,8 +19,8 @@
     "url": "https://github.com/basecamp/omarchy",
     "description": "Star basecamp / omarchy Beautiful, Modern &amp; Opinionated Linux",
     "language": "Shell",
-    "stars": 25109,
-    "forks": 2556,
+    "stars": 25269,
+    "forks": 2576,
     "stars_today": 225
    },
    {
@@ -29,8 +29,8 @@
     "url": "https://github.com/unslothai/unsloth",
     "description": "Sponsor Star unslothai / unsloth Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
     "language": "Python",
-    "stars": 72277,
-    "forks": 6509,
+    "stars": 72438,
+    "forks": 6531,
     "stars_today": 580
    },
    {
@@ -39,48 +39,38 @@
     "url": "https://github.com/OpenCut-app/OpenCut",
     "description": "Sponsor Star OpenCut-app / OpenCut The open-source CapCut alternative",
     "language": "TypeScript",
-    "stars": 83549,
-    "forks": 8264,
+    "stars": 83737,
+    "forks": 8273,
     "stars_today": 134
    },
    {
     "rank": 5,
-    "name": "akitaonrails/ai-memory",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "description": "Star akitaonrails / ai-memory Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "language": "Rust",
-    "stars": 1561,
-    "forks": 164,
-    "stars_today": 41
-   },
-   {
-    "rank": 6,
     "name": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "Star public-apis / public-apis A collective list of free APIs",
     "language": "Python",
-    "stars": 460888,
-    "forks": 50917,
+    "stars": 461394,
+    "forks": 50975,
     "stars_today": 1583
    },
    {
-    "rank": 7,
+    "rank": 6,
     "name": "ToolJet/ToolJet",
     "url": "https://github.com/ToolJet/ToolJet",
     "description": "Sponsor Star ToolJet / ToolJet ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and",
     "language": "JavaScript",
-    "stars": 39757,
-    "forks": 5312,
+    "stars": 39897,
+    "forks": 5322,
     "stars_today": 446
    },
    {
-    "rank": 8,
+    "rank": 7,
     "name": "cactus-compute/needle",
     "url": "https://github.com/cactus-compute/needle",
     "description": "Star cactus-compute / needle 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
     "language": "Python",
-    "stars": 6302,
-    "forks": 419,
+    "stars": 6456,
+    "forks": 427,
     "stars_today": 447
    }
   ],
@@ -91,8 +81,8 @@
     "url": "https://github.com/unslothai/unsloth",
     "description": "Sponsor Star unslothai / unsloth Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
     "language": "Python",
-    "stars": 72277,
-    "forks": 6509,
+    "stars": 72438,
+    "forks": 6531,
     "stars_today": 580
    },
    {
@@ -101,8 +91,8 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "Star public-apis / public-apis A collective list of free APIs",
     "language": "Python",
-    "stars": 460888,
-    "forks": 50917,
+    "stars": 461394,
+    "forks": 50975,
     "stars_today": 1583
    },
    {
@@ -111,8 +101,8 @@
     "url": "https://github.com/cactus-compute/needle",
     "description": "Star cactus-compute / needle 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
     "language": "Python",
-    "stars": 6302,
-    "forks": 419,
+    "stars": 6456,
+    "forks": 427,
     "stars_today": 447
    },
    {
@@ -121,8 +111,8 @@
     "url": "https://github.com/HKUDS/CLI-Anything",
     "description": "Star HKUDS / CLI-Anything \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
     "language": "Python",
-    "stars": 47560,
-    "forks": 4403,
+    "stars": 47604,
+    "forks": 4408,
     "stars_today": 418
    },
    {
@@ -131,7 +121,7 @@
     "url": "https://github.com/xai-org/grok-1",
     "description": "Star xai-org / grok-1 Grok open release",
     "language": "Python",
-    "stars": 52138,
+    "stars": 52140,
     "forks": 8535,
     "stars_today": 13
    },
@@ -141,9 +131,9 @@
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "description": "Star harry0703 / MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
     "language": "Python",
-    "stars": 104180,
-    "forks": 15806,
-    "stars_today": 403
+    "stars": 104431,
+    "forks": 15855,
+    "stars_today": 494
    },
    {
     "rank": 7,
@@ -151,9 +141,9 @@
     "url": "https://github.com/smicallef/spiderfoot",
     "description": "Star smicallef / spiderfoot SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
     "language": "Python",
-    "stars": 21105,
-    "forks": 3378,
-    "stars_today": 245
+    "stars": 21115,
+    "forks": 3380,
+    "stars_today": 54
    },
    {
     "rank": 8,
@@ -161,8 +151,8 @@
     "url": "https://github.com/megadose/holehe",
     "description": "Star megadose / holehe holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
     "language": "Python",
-    "stars": 13227,
-    "forks": 1754,
+    "stars": 13262,
+    "forks": 1755,
     "stars_today": 241
    },
    {
@@ -171,8 +161,8 @@
     "url": "https://github.com/MakazhanAlpamys/Soup",
     "description": "Star MakazhanAlpamys / Soup Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "language": "Python",
-    "stars": 1888,
-    "forks": 280,
+    "stars": 1953,
+    "forks": 291,
     "stars_today": 456
    },
    {
@@ -181,8 +171,8 @@
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "Star yt-dlp / yt-dlp A feature-rich command-line audio/video downloader",
     "language": "Python",
-    "stars": 184774,
-    "forks": 15912,
+    "stars": 184842,
+    "forks": 15920,
     "stars_today": 202
    },
    {
@@ -191,8 +181,8 @@
     "url": "https://github.com/THUDM/slime",
     "description": "Star THUDM / slime slime is an LLM post-training framework for RL Scaling.",
     "language": "Python",
-    "stars": 8053,
-    "forks": 1149,
+    "stars": 8059,
+    "forks": 1151,
     "stars_today": 36
    },
    {
@@ -201,8 +191,8 @@
     "url": "https://github.com/newton-physics/newton",
     "description": "Star newton-physics / newton An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
     "language": "Python",
-    "stars": 5428,
-    "forks": 639,
+    "stars": 5434,
+    "forks": 640,
     "stars_today": 41
    },
    {
@@ -211,8 +201,8 @@
     "url": "https://github.com/usestrix/strix",
     "description": "Star usestrix / strix Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
     "language": "Python",
-    "stars": 53078,
-    "forks": 5692,
+    "stars": 53248,
+    "forks": 5710,
     "stars_today": 781
    },
    {
@@ -221,8 +211,8 @@
     "url": "https://github.com/jundot/omlx",
     "description": "Star jundot / omlx LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
     "language": "Python",
-    "stars": 18769,
-    "forks": 1632,
+    "stars": 18792,
+    "forks": 1634,
     "stars_today": 57
    },
    {
@@ -231,8 +221,8 @@
     "url": "https://github.com/google-research/timesfm",
     "description": "Star google-research / timesfm TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
     "language": "Python",
-    "stars": 27577,
-    "forks": 2690,
+    "stars": 27653,
+    "forks": 2702,
     "stars_today": 119
    },
    {
@@ -241,8 +231,8 @@
     "url": "https://github.com/0xSero/ai-data-extraction",
     "description": "Sponsor Star 0xSero / ai-data-extraction extract all your personal data history from cursor, codex, claude-code, windsurf, and trae",
     "language": "Python",
-    "stars": 1125,
-    "forks": 96,
+    "stars": 1130,
+    "forks": 97,
     "stars_today": 66
    }
   ],
@@ -253,8 +243,8 @@
     "url": "https://github.com/ToolJet/ToolJet",
     "description": "Sponsor Star ToolJet / ToolJet ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and",
     "language": "JavaScript",
-    "stars": 39757,
-    "forks": 5312,
+    "stars": 39897,
+    "forks": 5322,
     "stars_today": 446
    },
    {
@@ -263,8 +253,8 @@
     "url": "https://github.com/citrolabs/ego-lite",
     "description": "Star citrolabs / ego-lite The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing",
     "language": "JavaScript",
-    "stars": 11254,
-    "forks": 574,
+    "stars": 11285,
+    "forks": 575,
     "stars_today": 633
    },
    {
@@ -273,9 +263,9 @@
     "url": "https://github.com/darkzOGx/youtube-automation-agent",
     "description": "Star darkzOGx / youtube-automation-agent 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding re",
     "language": "JavaScript",
-    "stars": 2074,
-    "forks": 520,
-    "stars_today": 75
+    "stars": 2086,
+    "forks": 522,
+    "stars_today": 45
    },
    {
     "rank": 4,
@@ -283,8 +273,8 @@
     "url": "https://github.com/IRNova/Nova-Proxy",
     "description": "Star IRNova / Nova-Proxy یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران ت",
     "language": "JavaScript",
-    "stars": 3039,
-    "forks": 587,
+    "stars": 3047,
+    "forks": 591,
     "stars_today": 24
    },
    {
@@ -293,7 +283,7 @@
     "url": "https://github.com/hmjz100/LinkSwift",
     "description": "Star hmjz100 / LinkSwift 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
     "language": "JavaScript",
-    "stars": 19092,
+    "stars": 19094,
     "forks": 1128,
     "stars_today": 38
    },
@@ -303,8 +293,8 @@
     "url": "https://github.com/plankanban/planka",
     "description": "Star plankanban / planka PLANKA is the Kanban-style project mastering tool for everyone",
     "language": "JavaScript",
-    "stars": 12385,
-    "forks": 1353,
+    "stars": 12388,
+    "forks": 1354,
     "stars_today": 31
    },
    {
@@ -313,8 +303,8 @@
     "url": "https://github.com/is-a-dev/register",
     "description": "Star is-a-dev / register Grab your own sweet-looking '.is-a.dev' subdomain.",
     "language": "JavaScript",
-    "stars": 10981,
-    "forks": 27020,
+    "stars": 10983,
+    "forks": 27043,
     "stars_today": 11
    },
    {
@@ -323,8 +313,8 @@
     "url": "https://github.com/mnfst/awesome-free-llm-apis",
     "description": "Star mnfst / awesome-free-llm-apis List of Permanent Free LLM API (API Keys)",
     "language": "JavaScript",
-    "stars": 6658,
-    "forks": 644,
+    "stars": 6674,
+    "forks": 645,
     "stars_today": 59
    },
    {
@@ -334,7 +324,7 @@
     "description": "Star babalae / bettergi-scripts-list BetterGI 的脚本仓库，内含BetterGI 的JS脚本、路径追踪、战斗策略、七圣召唤策略。",
     "language": "JavaScript",
     "stars": 515,
-    "forks": 420,
+    "forks": 421,
     "stars_today": 2
    }
   ],
@@ -345,8 +335,8 @@
     "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
     "description": "Sponsor Star aldinokemal / go-whatsapp-web-multidevice GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
     "language": "Go",
-    "stars": 4599,
-    "forks": 1089,
+    "stars": 4607,
+    "forks": 1093,
     "stars_today": 24
    },
    {
@@ -355,9 +345,9 @@
     "url": "https://github.com/ollama/ollama",
     "description": "Star ollama / ollama Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
-    "stars": 178660,
-    "forks": 17428,
-    "stars_today": 117
+    "stars": 178698,
+    "forks": 17434,
+    "stars_today": 130
    },
    {
     "rank": 3,
@@ -365,8 +355,8 @@
     "url": "https://github.com/putyy/res-downloader",
     "description": "Star putyy / res-downloader 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
     "language": "Go",
-    "stars": 19232,
-    "forks": 2397,
+    "stars": 19249,
+    "forks": 2398,
     "stars_today": 72
    },
    {
@@ -375,8 +365,8 @@
     "url": "https://github.com/mostlygeek/llama-swap",
     "description": "Sponsor Star mostlygeek / llama-swap Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc",
     "language": "Go",
-    "stars": 5377,
-    "forks": 421,
+    "stars": 5381,
+    "forks": 422,
     "stars_today": 17
    },
    {
@@ -385,9 +375,9 @@
     "url": "https://github.com/kenn-io/agentsview",
     "description": "Star kenn-io / agentsview Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
     "language": "Go",
-    "stars": 5041,
-    "forks": 593,
-    "stars_today": 129
+    "stars": 5047,
+    "forks": 596,
+    "stars_today": 35
    },
    {
     "rank": 6,
@@ -395,9 +385,9 @@
     "url": "https://github.com/harness/harness",
     "description": "Star harness / harness Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
     "language": "Go",
-    "stars": 37974,
+    "stars": 37963,
     "forks": 3337,
-    "stars_today": 35
+    "stars_today": 32
    },
    {
     "rank": 7,
@@ -405,9 +395,9 @@
     "url": "https://github.com/knadh/listmonk",
     "description": "Star knadh / listmonk High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
     "language": "Go",
-    "stars": 22891,
+    "stars": 22904,
     "forks": 2525,
-    "stars_today": 32
+    "stars_today": 42
    },
    {
     "rank": 8,
@@ -415,7 +405,7 @@
     "url": "https://github.com/ViRb3/wgcf",
     "description": "Star ViRb3 / wgcf 🚤 Cross-platform, unofficial CLI for Cloudflare Warp",
     "language": "Go",
-    "stars": 8612,
+    "stars": 8613,
     "forks": 867,
     "stars_today": 5
    },
@@ -425,8 +415,8 @@
     "url": "https://github.com/XTLS/Xray-core",
     "description": "Star XTLS / Xray-core Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
     "language": "Go",
-    "stars": 41064,
-    "forks": 5768,
+    "stars": 41070,
+    "forks": 5769,
     "stars_today": 28
    },
    {
@@ -435,7 +425,7 @@
     "url": "https://github.com/mudler/LocalAI",
     "description": "Sponsor Star mudler / LocalAI LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
     "language": "Go",
-    "stars": 48503,
+    "stars": 48508,
     "forks": 4362,
     "stars_today": 27
    },
@@ -445,8 +435,8 @@
     "url": "https://github.com/velero-io/velero",
     "description": "Star velero-io / velero Backup and migrate Kubernetes applications and their persistent volumes",
     "language": "Go",
-    "stars": 10217,
-    "forks": 1593,
+    "stars": 10222,
+    "forks": 1597,
     "stars_today": 5
    },
    {
@@ -455,8 +445,8 @@
     "url": "https://github.com/superplanehq/superplane",
     "description": "Star superplanehq / superplane The open source control plane for agentic engineering.",
     "language": "Go",
-    "stars": 5307,
-    "forks": 569,
+    "stars": 5330,
+    "forks": 572,
     "stars_today": 49
    },
    {
@@ -465,8 +455,8 @@
     "url": "https://github.com/seakee/CPA-Manager-Plus",
     "description": "Star seakee / CPA-Manager-Plus A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.",
     "language": "Go",
-    "stars": 2595,
-    "forks": 272,
+    "stars": 2601,
+    "forks": 273,
     "stars_today": 16
    },
    {
@@ -475,8 +465,8 @@
     "url": "https://github.com/Gitlawb/zero",
     "description": "Star Gitlawb / zero The coding agent that answers to you, your model, your machine, your rules.",
     "language": "Go",
-    "stars": 1454,
-    "forks": 155,
+    "stars": 1476,
+    "forks": 156,
     "stars_today": 121
    },
    {
@@ -485,8 +475,8 @@
     "url": "https://github.com/vllm-project/semantic-router",
     "description": "Sponsor Star vllm-project / semantic-router A programmable Mixture-of-Models router for heterogeneous LLM inference",
     "language": "Go",
-    "stars": 5158,
-    "forks": 816,
+    "stars": 5160,
+    "forks": 817,
     "stars_today": 0
    }
   ]
