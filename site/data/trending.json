@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-22T07:05:50Z",
+ "updated_at": "2026-08-22T13:06:13Z",
  "since": "daily",
  "languages": {
   "all": [
@@ -9,9 +9,9 @@
     "url": "https://github.com/mattpocock/skills",
     "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.",
     "language": "Shell",
-    "stars": 230124,
-    "forks": 19666,
-    "stars_today": 3362
+    "stars": 230876,
+    "forks": 19725,
+    "stars_today": 2684
    },
    {
     "rank": 2,
@@ -19,9 +19,9 @@
     "url": "https://github.com/mahlernim/google-timeline-visualizer",
     "description": "Star mahlernim / google-timeline-visualizer Visualize your year in travel using your Google Location History (Timeline) data",
     "language": "Kotlin",
-    "stars": 2334,
-    "forks": 272,
-    "stars_today": 1053
+    "stars": 2456,
+    "forks": 282,
+    "stars_today": 441
    },
    {
     "rank": 3,
@@ -29,9 +29,9 @@
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "description": "Star harry0703 / MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
     "language": "Python",
-    "stars": 114152,
-    "forks": 17328,
-    "stars_today": 1201
+    "stars": 114415,
+    "forks": 17367,
+    "stars_today": 903
    },
    {
     "rank": 4,
@@ -39,9 +39,9 @@
     "url": "https://github.com/AprilNEA/OpenLogi",
     "description": "Sponsor Star AprilNEA / OpenLogi ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
     "language": "Rust",
-    "stars": 13181,
-    "forks": 356,
-    "stars_today": 1380
+    "stars": 13439,
+    "forks": 362,
+    "stars_today": 959
    },
    {
     "rank": 5,
@@ -49,9 +49,9 @@
     "url": "https://github.com/PostHog/posthog",
     "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs",
     "language": "Python",
-    "stars": 38362,
-    "forks": 3234,
-    "stars_today": 335
+    "stars": 38441,
+    "forks": 3238,
+    "stars_today": 288
    },
    {
     "rank": 6,
@@ -59,8 +59,8 @@
     "url": "https://github.com/microsoft/TypeScript",
     "description": "Star microsoft / TypeScript TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
     "language": "Go",
-    "stars": 110422,
-    "forks": 13746,
+    "stars": 110453,
+    "forks": 13747,
     "stars_today": 65
    },
    {
@@ -69,9 +69,9 @@
     "url": "https://github.com/obra/superpowers",
     "description": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
     "language": "Shell",
-    "stars": 275769,
-    "forks": 24658,
-    "stars_today": 790
+    "stars": 275911,
+    "forks": 24669,
+    "stars_today": 592
    },
    {
     "rank": 8,
@@ -79,9 +79,9 @@
     "url": "https://github.com/santifer/career-ops",
     "description": "Sponsor Star santifer / career-ops Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally i",
     "language": "JavaScript",
-    "stars": 67584,
-    "forks": 12879,
-    "stars_today": 921
+    "stars": 67730,
+    "forks": 12889,
+    "stars_today": 604
    },
    {
     "rank": 9,
@@ -89,9 +89,9 @@
     "url": "https://github.com/cursor/plugins",
     "description": "Star cursor / plugins Cursor plugin specification and official plugins",
     "language": "TypeScript",
-    "stars": 4474,
-    "forks": 369,
-    "stars_today": 388
+    "stars": 4537,
+    "forks": 373,
+    "stars_today": 286
    },
    {
     "rank": 10,
@@ -99,9 +99,9 @@
     "url": "https://github.com/modular/modular",
     "description": "Star modular / modular The Modular Platform (includes MAX &amp; Mojo)",
     "language": "Mojo",
-    "stars": 28744,
-    "forks": 3057,
-    "stars_today": 913
+    "stars": 28772,
+    "forks": 3060,
+    "stars_today": 395
    },
    {
     "rank": 11,
@@ -109,8 +109,8 @@
     "url": "https://github.com/affaan-m/ECC",
     "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "language": "JavaScript",
-    "stars": 241879,
-    "forks": 36668,
+    "stars": 241984,
+    "forks": 36678,
     "stars_today": 357
    },
    {
@@ -119,8 +119,8 @@
     "url": "https://github.com/TryGhost/Ghost",
     "description": "Sponsor Star TryGhost / Ghost Independent technology for modern publishing, memberships, subscriptions and newsletters.",
     "language": "JavaScript",
-    "stars": 54969,
-    "forks": 11906,
+    "stars": 55034,
+    "forks": 11909,
     "stars_today": 32
    },
    {
@@ -129,8 +129,8 @@
     "url": "https://github.com/ruvnet/ruflo",
     "description": "Star ruvnet / ruflo 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-lear",
     "language": "TypeScript",
-    "stars": 68729,
-    "forks": 8252,
+    "stars": 68811,
+    "forks": 8258,
     "stars_today": 140
    },
    {
@@ -139,8 +139,8 @@
     "url": "https://github.com/apache/maka",
     "description": "Star apache / maka Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only l",
     "language": "TypeScript",
-    "stars": 2089,
-    "forks": 243,
+    "stars": 2150,
+    "forks": 249,
     "stars_today": 148
    },
    {
@@ -149,8 +149,8 @@
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Star protocolbuffers / protobuf Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "stars": 71792,
-    "forks": 16237,
+    "stars": 71805,
+    "forks": 16238,
     "stars_today": 4
    },
    {
@@ -159,8 +159,8 @@
     "url": "https://github.com/elder-plinius/OBLITERATUS",
     "description": "Star elder-plinius / OBLITERATUS OBLITERATE THE CHAINS THAT BIND YOU",
     "language": "Python",
-    "stars": 7870,
-    "forks": 1436,
+    "stars": 7940,
+    "forks": 1439,
     "stars_today": 63
    },
    {
@@ -169,8 +169,8 @@
     "url": "https://github.com/microsoft/onnxruntime",
     "description": "Star microsoft / onnxruntime ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
     "language": "C++",
-    "stars": 21520,
-    "forks": 4152,
+    "stars": 21596,
+    "forks": 4153,
     "stars_today": 5
    }
   ],
@@ -181,9 +181,9 @@
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "description": "Star harry0703 / MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
     "language": "Python",
-    "stars": 114152,
-    "forks": 17328,
-    "stars_today": 1201
+    "stars": 114415,
+    "forks": 17367,
+    "stars_today": 903
    },
    {
     "rank": 2,
@@ -191,9 +191,9 @@
     "url": "https://github.com/PostHog/posthog",
     "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs",
     "language": "Python",
-    "stars": 38362,
-    "forks": 3234,
-    "stars_today": 335
+    "stars": 38441,
+    "forks": 3238,
+    "stars_today": 288
    },
    {
     "rank": 3,
@@ -201,8 +201,8 @@
     "url": "https://github.com/elder-plinius/OBLITERATUS",
     "description": "Star elder-plinius / OBLITERATUS OBLITERATE THE CHAINS THAT BIND YOU",
     "language": "Python",
-    "stars": 7870,
-    "forks": 1436,
+    "stars": 7940,
+    "forks": 1439,
     "stars_today": 63
    },
    {
@@ -211,9 +211,9 @@
     "url": "https://github.com/Tencent/AI-Infra-Guard",
     "description": "Star Tencent / AI-Infra-Guard A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
     "language": "Python",
-    "stars": 5348,
-    "forks": 511,
-    "stars_today": 434
+    "stars": 5354,
+    "forks": 512,
+    "stars_today": 161
    },
    {
     "rank": 5,
@@ -221,119 +221,129 @@
     "url": "https://github.com/anthropics/claude-code",
     "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex cod",
     "language": "Python",
-    "stars": 142337,
-    "forks": 22822,
+    "stars": 142360,
+    "forks": 22825,
     "stars_today": 170
    },
    {
     "rank": 6,
+    "name": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 l",
+    "language": "Python",
+    "stars": 11155,
+    "forks": 1775,
+    "stars_today": 125
+   },
+   {
+    "rank": 7,
     "name": "mukul975/Anthropic-Cybersecurity-Skills",
     "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
     "description": "Sponsor Star mukul975 / Anthropic-Cybersecurity-Skills 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp",
     "language": "Python",
-    "stars": 30563,
-    "forks": 3636,
+    "stars": 30590,
+    "forks": 3642,
     "stars_today": 243
    },
    {
-    "rank": 7,
+    "rank": 8,
     "name": "MadsLorentzen/ai-job-search",
     "url": "https://github.com/MadsLorentzen/ai-job-search",
     "description": "Sponsor Star MadsLorentzen / ai-job-search The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep intervi",
     "language": "Python",
-    "stars": 32812,
-    "forks": 11540,
+    "stars": 32856,
+    "forks": 11550,
     "stars_today": 223
    },
    {
-    "rank": 8,
+    "rank": 9,
     "name": "google/adk-samples",
     "url": "https://github.com/google/adk-samples",
     "description": "Star google / adk-samples A collection of sample agents built with Agent Development Kit (ADK)",
     "language": "Python",
-    "stars": 10206,
-    "forks": 2822,
+    "stars": 10210,
+    "forks": 2823,
     "stars_today": 12
    },
    {
-    "rank": 9,
+    "rank": 10,
     "name": "Osmantic/ODS",
     "url": "https://github.com/Osmantic/ODS",
     "description": "Star Osmantic / ODS Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
     "language": "Python",
-    "stars": 4629,
-    "forks": 694,
+    "stars": 4641,
+    "forks": 700,
     "stars_today": 42
    },
    {
-    "rank": 10,
+    "rank": 11,
     "name": "forcedotcom/sf-skills",
     "url": "https://github.com/forcedotcom/sf-skills",
     "description": "Star forcedotcom / sf-skills Salesforce's curated collection of agent skills for building applications. Optimized for Agentforce Vibes, compatible with all AI tools.",
     "language": "Python",
-    "stars": 893,
-    "forks": 305,
+    "stars": 896,
+    "forks": 306,
     "stars_today": 44
    },
    {
-    "rank": 11,
+    "rank": 12,
     "name": "vllm-project/vllm",
     "url": "https://github.com/vllm-project/vllm",
     "description": "Sponsor Star vllm-project / vllm A high-throughput and memory-efficient inference and serving engine for LLMs",
     "language": "Python",
-    "stars": 89678,
-    "forks": 21032,
+    "stars": 89696,
+    "forks": 21040,
     "stars_today": 104
    },
    {
-    "rank": 12,
+    "rank": 13,
     "name": "jax-ml/jax",
     "url": "https://github.com/jax-ml/jax",
     "description": "Star jax-ml / jax Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
     "language": "Python",
-    "stars": 36196,
-    "forks": 3743,
+    "stars": 36202,
+    "forks": 3744,
     "stars_today": 6
    },
    {
-    "rank": 13,
+    "rank": 14,
     "name": "Alishahryar1/free-claude-code",
     "url": "https://github.com/Alishahryar1/free-claude-code",
     "description": "Star Alishahryar1 / free-claude-code Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
     "language": "Python",
-    "stars": 46494,
-    "forks": 7688,
+    "stars": 46520,
+    "forks": 7693,
     "stars_today": 166
    },
    {
-    "rank": 14,
+    "rank": 15,
     "name": "hao-ai-lab/FastVideo",
     "url": "https://github.com/hao-ai-lab/FastVideo",
     "description": "Star hao-ai-lab / FastVideo A unified inference and post-training framework for accelerated video generation.",
     "language": "Python",
-    "stars": 4024,
-    "forks": 412,
+    "stars": 4026,
+    "forks": 413,
     "stars_today": 31
    },
    {
-    "rank": 15,
+    "rank": 16,
     "name": "D4Vinci/Scrapling",
     "url": "https://github.com/D4Vinci/Scrapling",
     "description": "Sponsor Star D4Vinci / Scrapling 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
     "language": "Python",
-    "stars": 75745,
-    "forks": 7570,
+    "stars": 75787,
+    "forks": 7576,
     "stars_today": 163
    },
    {
-    "rank": 16,
+    "rank": 17,
     "name": "volcengine/OpenViking",
     "url": "https://github.com/volcengine/OpenViking",
     "description": "Star volcengine / OpenViking Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "language": "Python",
-    "stars": 31776,
-    "forks": 2428,
-    "stars_today": 654
+    "stars": 31871,
+    "forks": 2433,
+    "stars_today": 468
    }
   ],
   "javascript": [
@@ -343,9 +353,9 @@
     "url": "https://github.com/santifer/career-ops",
     "description": "Sponsor Star santifer / career-ops Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally i",
     "language": "JavaScript",
-    "stars": 67584,
-    "forks": 12879,
-    "stars_today": 921
+    "stars": 67730,
+    "forks": 12889,
+    "stars_today": 604
    },
    {
     "rank": 2,
@@ -353,8 +363,8 @@
     "url": "https://github.com/affaan-m/ECC",
     "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "language": "JavaScript",
-    "stars": 241879,
-    "forks": 36668,
+    "stars": 241984,
+    "forks": 36678,
     "stars_today": 357
    },
    {
@@ -363,8 +373,8 @@
     "url": "https://github.com/TryGhost/Ghost",
     "description": "Sponsor Star TryGhost / Ghost Independent technology for modern publishing, memberships, subscriptions and newsletters.",
     "language": "JavaScript",
-    "stars": 54969,
-    "forks": 11906,
+    "stars": 55034,
+    "forks": 11909,
     "stars_today": 32
    },
    {
@@ -373,8 +383,8 @@
     "url": "https://github.com/vercel-labs/agent-skills",
     "description": "Star vercel-labs / agent-skills Vercel's official collection of agent skills",
     "language": "JavaScript",
-    "stars": 30311,
-    "forks": 2711,
+    "stars": 30321,
+    "forks": 2712,
     "stars_today": 28
    },
    {
@@ -383,8 +393,8 @@
     "url": "https://github.com/byoungd/up",
     "description": "Star byoungd / up An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
     "language": "JavaScript",
-    "stars": 60451,
-    "forks": 6142,
+    "stars": 60550,
+    "forks": 6150,
     "stars_today": 129
    },
    {
@@ -393,8 +403,8 @@
     "url": "https://github.com/coreyhaines31/marketingskills",
     "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
     "language": "JavaScript",
-    "stars": 45214,
-    "forks": 7095,
+    "stars": 45245,
+    "forks": 7096,
     "stars_today": 114
    },
    {
@@ -403,8 +413,8 @@
     "url": "https://github.com/chuspeeism/dashi-ppt-skill",
     "description": "Star chuspeeism / dashi-ppt-skill An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
     "language": "JavaScript",
-    "stars": 5904,
-    "forks": 558,
+    "stars": 5955,
+    "forks": 566,
     "stars_today": 70
    },
    {
@@ -413,7 +423,7 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "language": "JavaScript",
-    "stars": 3010,
+    "stars": 3015,
     "forks": 224,
     "stars_today": 29
    },
@@ -423,8 +433,8 @@
     "url": "https://github.com/DietrichGebert/ponytail",
     "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "language": "JavaScript",
-    "stars": 107688,
-    "forks": 5952,
+    "stars": 107896,
+    "forks": 5963,
     "stars_today": 756
    },
    {
@@ -433,8 +443,8 @@
     "url": "https://github.com/Leonxlnx/taste-skill",
     "description": "Sponsor Star Leonxlnx / taste-skill Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
     "language": "JavaScript",
-    "stars": 79066,
-    "forks": 5400,
+    "stars": 79150,
+    "forks": 5407,
     "stars_today": 403
    },
    {
@@ -443,8 +453,8 @@
     "url": "https://github.com/hmjz100/LinkSwift",
     "description": "Star hmjz100 / LinkSwift 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
     "language": "JavaScript",
-    "stars": 19432,
-    "forks": 1176,
+    "stars": 19443,
+    "forks": 1178,
     "stars_today": 53
    },
    {
@@ -453,8 +463,8 @@
     "url": "https://github.com/thedotmack/claude-mem",
     "description": "Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back ",
     "language": "JavaScript",
-    "stars": 91478,
-    "forks": 8008,
+    "stars": 91500,
+    "forks": 8009,
     "stars_today": 103
    },
    {
@@ -463,8 +473,8 @@
     "url": "https://github.com/pbakaus/impeccable",
     "description": "Star pbakaus / impeccable The design language that makes your AI harness better at design.",
     "language": "JavaScript",
-    "stars": 61456,
-    "forks": 3752,
+    "stars": 61517,
+    "forks": 3757,
     "stars_today": 329
    },
    {
@@ -473,8 +483,8 @@
     "url": "https://github.com/WorldFlowAI/everything-claude-code",
     "description": "Star WorldFlowAI / everything-claude-code Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
     "language": "JavaScript",
-    "stars": 1546,
-    "forks": 268,
+    "stars": 1561,
+    "forks": 270,
     "stars_today": 89
    },
    {
@@ -483,7 +493,7 @@
     "url": "https://github.com/simple-icons/simple-icons",
     "description": "Star simple-icons / simple-icons SVG icons for popular brands",
     "language": "JavaScript",
-    "stars": 25678,
+    "stars": 25683,
     "forks": 3154,
     "stars_today": 24
    },
@@ -493,8 +503,8 @@
     "url": "https://github.com/darkzOGx/youtube-automation-agent",
     "description": "Star darkzOGx / youtube-automation-agent 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding re",
     "language": "JavaScript",
-    "stars": 2455,
-    "forks": 670,
+    "stars": 2463,
+    "forks": 672,
     "stars_today": 55
    },
    {
@@ -503,7 +513,7 @@
     "url": "https://github.com/jo-inc/camofox-browser",
     "description": "Star jo-inc / camofox-browser Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
     "language": "JavaScript",
-    "stars": 8766,
+    "stars": 8772,
     "forks": 937,
     "stars_today": 22
    }
@@ -515,8 +525,8 @@
     "url": "https://github.com/microsoft/TypeScript",
     "description": "Star microsoft / TypeScript TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
     "language": "Go",
-    "stars": 110422,
-    "forks": 13746,
+    "stars": 110453,
+    "forks": 13747,
     "stars_today": 65
    },
    {
@@ -525,9 +535,9 @@
     "url": "https://github.com/JuliusBrussee/caveman",
     "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "language": "Go",
-    "stars": 100204,
-    "forks": 5809,
-    "stars_today": 590
+    "stars": 100245,
+    "forks": 5815,
+    "stars_today": 348
    },
    {
     "rank": 3,
@@ -535,8 +545,8 @@
     "url": "https://github.com/alibaba/open-code-review",
     "description": "Star alibaba / open-code-review Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in mult",
     "language": "Go",
-    "stars": 21091,
-    "forks": 1531,
+    "stars": 21105,
+    "forks": 1538,
     "stars_today": 102
    },
    {
@@ -545,8 +555,8 @@
     "url": "https://github.com/golangci/golangci-lint",
     "description": "Sponsor Star golangci / golangci-lint Fast linters runner for Go",
     "language": "Go",
-    "stars": 19289,
-    "forks": 1618,
+    "stars": 19295,
+    "forks": 1619,
     "stars_today": 9
    },
    {
@@ -555,7 +565,7 @@
     "url": "https://github.com/hashicorp/nomad",
     "description": "Star hashicorp / nomad Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is",
     "language": "Go",
-    "stars": 16821,
+    "stars": 16824,
     "forks": 2133,
     "stars_today": 3
    },
@@ -565,9 +575,9 @@
     "url": "https://github.com/agent-substrate/substrate",
     "description": "Star agent-substrate / substrate Agent Substrate: the core system",
     "language": "Go",
-    "stars": 1586,
+    "stars": 1590,
     "forks": 264,
-    "stars_today": 243
+    "stars_today": 67
    },
    {
     "rank": 7,
@@ -575,8 +585,8 @@
     "url": "https://github.com/open-telemetry/opentelemetry-collector",
     "description": "Star open-telemetry / opentelemetry-collector OpenTelemetry Collector",
     "language": "Go",
-    "stars": 7436,
-    "forks": 2211,
+    "stars": 7438,
+    "forks": 2213,
     "stars_today": 11
    },
    {
@@ -585,8 +595,8 @@
     "url": "https://github.com/maximhq/bifrost",
     "description": "Star maximhq / bifrost Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support &amp; &lt;100 µs overhead at 5k RPS.",
     "language": "Go",
-    "stars": 7489,
-    "forks": 1087,
+    "stars": 7498,
+    "forks": 1088,
     "stars_today": 22
    },
    {
@@ -595,7 +605,7 @@
     "url": "https://github.com/kunchenguid/no-mistakes",
     "description": "Star kunchenguid / no-mistakes git push no-mistakes",
     "language": "Go",
-    "stars": 7772,
+    "stars": 7780,
     "forks": 774,
     "stars_today": 23
    },
@@ -605,8 +615,8 @@
     "url": "https://github.com/Wei-Shaw/sub2api",
     "description": "Star Wei-Shaw / sub2api Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
     "language": "Go",
-    "stars": 38629,
-    "forks": 8020,
+    "stars": 38677,
+    "forks": 8025,
     "stars_today": 673
    },
    {
@@ -615,8 +625,8 @@
     "url": "https://github.com/github/github-mcp-server",
     "description": "Star github / github-mcp-server GitHub's official MCP Server",
     "language": "Go",
-    "stars": 32422,
-    "forks": 4830,
+    "stars": 32423,
+    "forks": 4832,
     "stars_today": 25
    },
    {
@@ -625,7 +635,7 @@
     "url": "https://github.com/zzet/gortex",
     "description": "Star zzet / gortex High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agen",
     "language": "Go",
-    "stars": 1442,
+    "stars": 1454,
     "forks": 130,
     "stars_today": 64
    },
@@ -635,8 +645,8 @@
     "url": "https://github.com/argoproj/argo-workflows",
     "description": "Star argoproj / argo-workflows Workflow Engine for Kubernetes",
     "language": "Go",
-    "stars": 16927,
-    "forks": 3625,
+    "stars": 16928,
+    "forks": 3626,
     "stars_today": 3
    },
    {
@@ -645,8 +655,8 @@
     "url": "https://github.com/larksuite/cli",
     "description": "Star larksuite / cli The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, M",
     "language": "Go",
-    "stars": 16643,
-    "forks": 1331,
+    "stars": 16650,
+    "forks": 1332,
     "stars_today": 28
    },
    {
@@ -655,8 +665,8 @@
     "url": "https://github.com/open-policy-agent/opa",
     "description": "Star open-policy-agent / opa Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
     "language": "Go",
-    "stars": 12132,
-    "forks": 1651,
+    "stars": 12134,
+    "forks": 1653,
     "stars_today": 2
    },
    {
@@ -665,8 +675,8 @@
     "url": "https://github.com/coder/coder",
     "description": "Star coder / coder Secure environments for developers and their agents",
     "language": "Go",
-    "stars": 14223,
-    "forks": 1444,
+    "stars": 14225,
+    "forks": 1445,
     "stars_today": 8
    },
    {
@@ -675,8 +685,8 @@
     "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
     "description": "Star Ed1s0nZ / CyberStrikeAI The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
     "language": "Go",
-    "stars": 5899,
-    "forks": 944,
+    "stars": 5901,
+    "forks": 945,
     "stars_today": 20
    },
    {
@@ -685,8 +695,8 @@
     "url": "https://github.com/QuantumNous/new-api",
     "description": "Star QuantumNous / new-api A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats.",
     "language": "Go",
-    "stars": 45891,
-    "forks": 10893,
+    "stars": 45908,
+    "forks": 10897,
     "stars_today": 131
    },
    {
@@ -695,8 +705,8 @@
     "url": "https://github.com/kubernetes/kubernetes",
     "description": "Star kubernetes / kubernetes Production-Grade Container Scheduling and Management",
     "language": "Go",
-    "stars": 124754,
-    "forks": 43895,
+    "stars": 124867,
+    "forks": 43893,
     "stars_today": 147
    },
    {
@@ -715,8 +725,8 @@
     "url": "https://github.com/tailscale/tailscale",
     "description": "Star tailscale / tailscale The easiest, most secure way to use WireGuard and 2FA.",
     "language": "Go",
-    "stars": 35424,
-    "forks": 3099,
+    "stars": 35432,
+    "forks": 3100,
     "stars_today": 28
    },
    {
@@ -725,8 +735,8 @@
     "url": "https://github.com/ongridio/ongrid",
     "description": "Star ongridio / ongrid An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.",
     "language": "Go",
-    "stars": 778,
-    "forks": 178,
+    "stars": 782,
+    "forks": 180,
     "stars_today": 16
    },
    {
@@ -735,8 +745,8 @@
     "url": "https://github.com/etcd-io/etcd",
     "description": "Star etcd-io / etcd Distributed reliable key-value store for the most critical data of a distributed system",
     "language": "Go",
-    "stars": 52148,
-    "forks": 10464,
+    "stars": 52153,
+    "forks": 10465,
     "stars_today": 9
    }
   ]
