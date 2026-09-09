@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09T04:54:26Z",
+ "updated_at": "2026-09-09T11:35:32Z",
  "since": "daily",
  "languages": {
   "all": [
@@ -9,159 +9,129 @@
     "url": "https://github.com/ayghri/i-have-adhd",
     "description": "Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
     "language": "Python",
-    "stars": 31201,
-    "forks": 1884,
+    "stars": 32592,
+    "forks": 1944,
     "stars_today": 656
    },
    {
     "rank": 2,
-    "name": "cathrynlavery/diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "description": "Star cathrynlavery / diagram-design 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "language": "HTML",
-    "stars": 35241,
-    "forks": 2216,
-    "stars_today": 710
+    "name": "Tencent/teamai-cli",
+    "url": "https://github.com/Tencent/teamai-cli",
+    "description": "Star Tencent / teamai-cli Make Every Team AI Native",
+    "language": "TypeScript",
+    "stars": 2633,
+    "forks": 169,
+    "stars_today": 1083
    },
    {
     "rank": 3,
-    "name": "openai/skills",
-    "url": "https://github.com/openai/skills",
-    "description": "Star openai / skills Skills Catalog for Codex",
-    "language": "Python",
-    "stars": 26602,
-    "forks": 1785,
-    "stars_today": 490
-   },
-   {
-    "rank": 4,
-    "name": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "language": "JavaScript",
-    "stars": 254472,
-    "forks": 38126,
-    "stars_today": 1427
-   },
-   {
-    "rank": 5,
-    "name": "heygen-com/hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "description": "Star heygen-com / hyperframes Write HTML. Render video. Built for agents.",
-    "language": "TypeScript",
-    "stars": 47927,
-    "forks": 4402,
-    "stars_today": 2627
-   },
-   {
-    "rank": 6,
-    "name": "coreyhaines31/marketingskills",
-    "url": "https://github.com/coreyhaines31/marketingskills",
-    "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-    "language": "JavaScript",
-    "stars": 48943,
-    "forks": 7501,
-    "stars_today": 666
-   },
-   {
-    "rank": 7,
     "name": "obra/superpowers",
     "url": "https://github.com/obra/superpowers",
     "description": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
     "language": "Shell",
-    "stars": 283470,
-    "forks": 25377,
+    "stars": 283684,
+    "forks": 25391,
     "stars_today": 452
    },
    {
+    "rank": 4,
+    "name": "pascalorg/editor",
+    "url": "https://github.com/pascalorg/editor",
+    "description": "Star pascalorg / editor Create and share 3D architectural projects.",
+    "language": "TypeScript",
+    "stars": 22658,
+    "forks": 2885,
+    "stars_today": 442
+   },
+   {
+    "rank": 5,
+    "name": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "description": "Star earthtojake / text-to-cad A library of agent skills for CAD, CAE and CAM",
+    "language": "Python",
+    "stars": 14820,
+    "forks": 1557,
+    "stars_today": 97
+   },
+   {
+    "rank": 6,
+    "name": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Star cathrynlavery / diagram-design 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 35977,
+    "forks": 2263,
+    "stars_today": 710
+   },
+   {
+    "rank": 7,
+    "name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "stars": 103547,
+    "forks": 19922,
+    "stars_today": 506
+   },
+   {
     "rank": 8,
-    "name": "multica-ai/andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "description": "Star multica-ai / andrej-karpathy-skills A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "name": "liquidslr/system-design-notes",
+    "url": "https://github.com/liquidslr/system-design-notes",
+    "description": "Star liquidslr / system-design-notes Notes of the book System Desgin Interview - An Insider's Guide",
     "language": "其他",
-    "stars": 211578,
-    "forks": 21476,
-    "stars_today": 333
+    "stars": 17476,
+    "forks": 3329,
+    "stars_today": 910
    },
    {
     "rank": 9,
-    "name": "microsoft/markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "description": "Star microsoft / markitdown Python tool for converting files and office documents to Markdown.",
-    "language": "Python",
-    "stars": 181846,
-    "forks": 13354,
-    "stars_today": 2047
-   },
-   {
-    "rank": 10,
-    "name": "jo-inc/camofox-browser",
-    "url": "https://github.com/jo-inc/camofox-browser",
-    "description": "Star jo-inc / camofox-browser Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-    "language": "JavaScript",
-    "stars": 10631,
-    "forks": 1060,
-    "stars_today": 871
-   },
-   {
-    "rank": 11,
-    "name": "MoonTechLab/LunaTV",
-    "url": "https://github.com/MoonTechLab/LunaTV",
-    "description": "Star MoonTechLab / LunaTV 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
-    "language": "TypeScript",
-    "stars": 10256,
-    "forks": 9057,
-    "stars_today": 505
-   },
-   {
-    "rank": 12,
-    "name": "browser-use/browser-use",
-    "url": "https://github.com/browser-use/browser-use",
-    "description": "Star browser-use / browser-use Agents that use the browser.",
-    "language": "Python",
-    "stars": 113657,
-    "forks": 12499,
-    "stars_today": 228
-   },
-   {
-    "rank": 13,
-    "name": "mksglu/context-mode",
-    "url": "https://github.com/mksglu/context-mode",
-    "description": "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + ",
-    "language": "TypeScript",
-    "stars": 21474,
-    "forks": 1545,
-    "stars_today": 651
-   },
-   {
-    "rank": 14,
-    "name": "The-Swarm-Corporation/AutoHedge",
-    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-    "description": "Star The-Swarm-Corporation / AutoHedge Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and ",
-    "language": "Python",
-    "stars": 5784,
-    "forks": 844,
-    "stars_today": 494
-   },
-   {
-    "rank": 15,
-    "name": "viarotel-org/escrcpy",
-    "url": "https://github.com/viarotel-org/escrcpy",
-    "description": "Star viarotel-org / escrcpy 📱 Display and control your Android device graphically with scrcpy.",
-    "language": "JavaScript",
-    "stars": 11467,
-    "forks": 799,
-    "stars_today": 178
-   },
-   {
-    "rank": 16,
     "name": "openai/plugins",
     "url": "https://github.com/openai/plugins",
     "description": "Star openai / plugins OpenAI Plugins",
     "language": "JavaScript",
-    "stars": 5898,
-    "forks": 806,
+    "stars": 6052,
+    "forks": 812,
     "stars_today": 105
+   },
+   {
+    "rank": 10,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "description": "Star freestylefly / awesome-gpt-image-2 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "language": "JavaScript",
+    "stars": 29591,
+    "forks": 2842,
+    "stars_today": 612
+   },
+   {
+    "rank": 11,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "stars": 53333,
+    "forks": 9343,
+    "stars_today": 356
+   },
+   {
+    "rank": 12,
+    "name": "vastsa/PI-Desktop",
+    "url": "https://github.com/vastsa/PI-Desktop",
+    "description": "Star vastsa / PI-Desktop Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "language": "TypeScript",
+    "stars": 1428,
+    "forks": 144,
+    "stars_today": 393
+   },
+   {
+    "rank": 13,
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 254725,
+    "forks": 38156,
+    "stars_today": 1427
    }
   ],
   "python": [
@@ -171,493 +141,473 @@
     "url": "https://github.com/ayghri/i-have-adhd",
     "description": "Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
     "language": "Python",
-    "stars": 31201,
-    "forks": 1884,
+    "stars": 32592,
+    "forks": 1944,
     "stars_today": 656
    },
    {
     "rank": 2,
-    "name": "openai/skills",
-    "url": "https://github.com/openai/skills",
-    "description": "Star openai / skills Skills Catalog for Codex",
+    "name": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "description": "Star earthtojake / text-to-cad A library of agent skills for CAD, CAE and CAM",
     "language": "Python",
-    "stars": 26602,
-    "forks": 1785,
-    "stars_today": 490
+    "stars": 14820,
+    "forks": 1557,
+    "stars_today": 97
    },
    {
     "rank": 3,
-    "name": "microsoft/markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "description": "Star microsoft / markitdown Python tool for converting files and office documents to Markdown.",
-    "language": "Python",
-    "stars": 181846,
-    "forks": 13354,
-    "stars_today": 2047
-   },
-   {
-    "rank": 4,
-    "name": "browser-use/browser-use",
-    "url": "https://github.com/browser-use/browser-use",
-    "description": "Star browser-use / browser-use Agents that use the browser.",
-    "language": "Python",
-    "stars": 113658,
-    "forks": 12499,
-    "stars_today": 228
-   },
-   {
-    "rank": 5,
-    "name": "The-Swarm-Corporation/AutoHedge",
-    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-    "description": "Star The-Swarm-Corporation / AutoHedge Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and ",
-    "language": "Python",
-    "stars": 5784,
-    "forks": 844,
-    "stars_today": 494
-   },
-   {
-    "rank": 6,
-    "name": "Free-TV/IPTV",
-    "url": "https://github.com/Free-TV/IPTV",
-    "description": "Star Free-TV / IPTV M3U Playlist for free TV channels",
-    "language": "Python",
-    "stars": 20437,
-    "forks": 2957,
-    "stars_today": 44
-   },
-   {
-    "rank": 7,
     "name": "TauricResearch/TradingAgents",
     "url": "https://github.com/TauricResearch/TradingAgents",
     "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework",
     "language": "Python",
-    "stars": 103456,
-    "forks": 19916,
+    "stars": 103547,
+    "forks": 19922,
     "stars_today": 506
    },
    {
-    "rank": 8,
-    "name": "0x4m4/hexstrike-ai",
-    "url": "https://github.com/0x4m4/hexstrike-ai",
-    "description": "Star 0x4m4 / hexstrike-ai HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnera",
-    "language": "Python",
-    "stars": 11714,
-    "forks": 2424,
-    "stars_today": 66
-   },
-   {
-    "rank": 9,
-    "name": "HKUDS/Vibe-Trading",
-    "url": "https://github.com/HKUDS/Vibe-Trading",
-    "description": "Star HKUDS / Vibe-Trading \"Vibe-Trading: Your Personal Trading Agent\"",
-    "language": "Python",
-    "stars": 33073,
-    "forks": 5384,
-    "stars_today": 116
-   },
-   {
-    "rank": 10,
-    "name": "PostHog/posthog",
-    "url": "https://github.com/PostHog/posthog",
-    "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs",
-    "language": "Python",
-    "stars": 39686,
-    "forks": 3362,
-    "stars_today": 23
-   },
-   {
-    "rank": 11,
-    "name": "hpcaitech/Open-Sora",
-    "url": "https://github.com/hpcaitech/Open-Sora",
-    "description": "Star hpcaitech / Open-Sora Open-Sora: Democratizing Efficient Video Production for All",
-    "language": "Python",
-    "stars": 29716,
-    "forks": 3082,
-    "stars_today": 181
-   },
-   {
-    "rank": 12,
-    "name": "AgriciDaniel/claude-ads",
-    "url": "https://github.com/AgriciDaniel/claude-ads",
-    "description": "Star AgriciDaniel / claude-ads Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Sn",
-    "language": "Python",
-    "stars": 9069,
-    "forks": 1345,
-    "stars_today": 73
-   },
-   {
-    "rank": 13,
+    "rank": 4,
     "name": "rohitg00/ai-engineering-from-scratch",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others.",
     "language": "Python",
-    "stars": 53232,
-    "forks": 9326,
+    "stars": 53333,
+    "forks": 9343,
     "stars_today": 356
    },
    {
-    "rank": 14,
-    "name": "neka-nat/freecad-mcp",
-    "url": "https://github.com/neka-nat/freecad-mcp",
-    "description": "Sponsor Star neka-nat / freecad-mcp FreeCAD MCP(Model Context Protocol) server",
+    "rank": 5,
+    "name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "Star public-apis / public-apis A collective list of free APIs",
     "language": "Python",
-    "stars": 2119,
-    "forks": 280,
-    "stars_today": 38
+    "stars": 477868,
+    "forks": 52752,
+    "stars_today": 583
    },
    {
-    "rank": 15,
-    "name": "k2-fsa/OmniVoice",
-    "url": "https://github.com/k2-fsa/OmniVoice",
-    "description": "Star k2-fsa / OmniVoice High-Quality Voice Cloning TTS for 600+ Languages",
+    "rank": 6,
+    "name": "Alishahryar1/free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "description": "Star Alishahryar1 / free-claude-code Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly",
     "language": "Python",
-    "stars": 10785,
-    "forks": 1693,
-    "stars_today": 280
+    "stars": 54119,
+    "forks": 8668,
+    "stars_today": 234
    },
    {
-    "rank": 16,
-    "name": "Zie619/n8n-workflows",
-    "url": "https://github.com/Zie619/n8n-workflows",
-    "description": "Star Zie619 / n8n-workflows all of the workflows of n8n i could find (also from the site itself)",
-    "language": "Python",
-    "stars": 56559,
-    "forks": 7608,
-    "stars_today": 38
-   },
-   {
-    "rank": 17,
-    "name": "shareAI-lab/learn-claude-code",
-    "url": "https://github.com/shareAI-lab/learn-claude-code",
-    "description": "Star shareAI-lab / learn-claude-code Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-    "language": "Python",
-    "stars": 76361,
-    "forks": 12287,
-    "stars_today": 87
-   },
-   {
-    "rank": 18,
+    "rank": 7,
     "name": "experientiallabs/experiential",
     "url": "https://github.com/experientiallabs/experiential",
     "description": "Star experientiallabs / experiential Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better",
     "language": "Python",
-    "stars": 3228,
-    "forks": 143,
+    "stars": 3446,
+    "forks": 150,
     "stars_today": 544
+   },
+   {
+    "rank": 8,
+    "name": "smicallef/spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "description": "Star smicallef / spiderfoot SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "language": "Python",
+    "stars": 21969,
+    "forks": 3550,
+    "stars_today": 69
+   },
+   {
+    "rank": 9,
+    "name": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "description": "Star openai / skills Skills Catalog for Codex",
+    "language": "Python",
+    "stars": 26733,
+    "forks": 1793,
+    "stars_today": 490
+   },
+   {
+    "rank": 10,
+    "name": "browser-use/browser-use",
+    "url": "https://github.com/browser-use/browser-use",
+    "description": "Star browser-use / browser-use Agents that use the browser.",
+    "language": "Python",
+    "stars": 113867,
+    "forks": 12510,
+    "stars_today": 228
+   },
+   {
+    "rank": 11,
+    "name": "OpenDCAI/GameFactory-3A",
+    "url": "https://github.com/OpenDCAI/GameFactory-3A",
+    "description": "Star OpenDCAI / GameFactory-3A A comprehensive open-source 3A game-generation skill and asset framework.",
+    "language": "Python",
+    "stars": 588,
+    "forks": 47,
+    "stars_today": 32
+   },
+   {
+    "rank": 12,
+    "name": "github/spec-kit",
+    "url": "https://github.com/github/spec-kit",
+    "description": "Star github / spec-kit 💫 Toolkit to help you get started with Spec-Driven Development",
+    "language": "Python",
+    "stars": 134344,
+    "forks": 12096,
+    "stars_today": 320
+   },
+   {
+    "rank": 13,
+    "name": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "description": "Star PostHog / posthog 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs",
+    "language": "Python",
+    "stars": 39706,
+    "forks": 3365,
+    "stars_today": 23
+   },
+   {
+    "rank": 14,
+    "name": "anbeime/skill",
+    "url": "https://github.com/anbeime/skill",
+    "description": "Star anbeime / skill 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill libr",
+    "language": "Python",
+    "stars": 6438,
+    "forks": 608,
+    "stars_today": 54
+   },
+   {
+    "rank": 15,
+    "name": "The-Swarm-Corporation/AutoHedge",
+    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+    "description": "Star The-Swarm-Corporation / AutoHedge Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and ",
+    "language": "Python",
+    "stars": 5902,
+    "forks": 850,
+    "stars_today": 494
+   },
+   {
+    "rank": 16,
+    "name": "Sumanth077/Hands-On-AI-Engineering",
+    "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
+    "description": "Star Sumanth077 / Hands-On-AI-Engineering A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.",
+    "language": "Python",
+    "stars": 3348,
+    "forks": 852,
+    "stars_today": 79
    }
   ],
   "javascript": [
    {
     "rank": 1,
-    "name": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "language": "JavaScript",
-    "stars": 254472,
-    "forks": 38126,
-    "stars_today": 1427
-   },
-   {
-    "rank": 2,
-    "name": "coreyhaines31/marketingskills",
-    "url": "https://github.com/coreyhaines31/marketingskills",
-    "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-    "language": "JavaScript",
-    "stars": 48943,
-    "forks": 7501,
-    "stars_today": 666
-   },
-   {
-    "rank": 3,
-    "name": "jo-inc/camofox-browser",
-    "url": "https://github.com/jo-inc/camofox-browser",
-    "description": "Star jo-inc / camofox-browser Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-    "language": "JavaScript",
-    "stars": 10631,
-    "forks": 1060,
-    "stars_today": 871
-   },
-   {
-    "rank": 4,
-    "name": "viarotel-org/escrcpy",
-    "url": "https://github.com/viarotel-org/escrcpy",
-    "description": "Star viarotel-org / escrcpy 📱 Display and control your Android device graphically with scrcpy.",
-    "language": "JavaScript",
-    "stars": 11467,
-    "forks": 799,
-    "stars_today": 178
-   },
-   {
-    "rank": 5,
     "name": "openai/plugins",
     "url": "https://github.com/openai/plugins",
     "description": "Star openai / plugins OpenAI Plugins",
     "language": "JavaScript",
-    "stars": 5898,
-    "forks": 806,
+    "stars": 6052,
+    "forks": 812,
     "stars_today": 105
    },
    {
-    "rank": 6,
+    "rank": 2,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "description": "Star freestylefly / awesome-gpt-image-2 Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "language": "JavaScript",
+    "stars": 29591,
+    "forks": 2842,
+    "stars_today": 612
+   },
+   {
+    "rank": 3,
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 254725,
+    "forks": 38156,
+    "stars_today": 1427
+   },
+   {
+    "rank": 4,
     "name": "decolua/9router",
     "url": "https://github.com/decolua/9router",
     "description": "Star decolua / 9router Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit ",
     "language": "JavaScript",
-    "stars": 28055,
-    "forks": 5088,
+    "stars": 28102,
+    "forks": 5089,
     "stars_today": 647
    },
    {
-    "rank": 7,
-    "name": "DietrichGebert/ponytail",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "rank": 5,
+    "name": "asgeirtj/system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "description": "Sponsor Star asgeirtj / system_prompts_leaks Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Fl",
     "language": "JavaScript",
-    "stars": 132427,
-    "forks": 7087,
-    "stars_today": 1275
+    "stars": 64520,
+    "forks": 10573,
+    "stars_today": 130
+   },
+   {
+    "rank": 6,
+    "name": "jo-inc/camofox-browser",
+    "url": "https://github.com/jo-inc/camofox-browser",
+    "description": "Star jo-inc / camofox-browser Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+    "language": "JavaScript",
+    "stars": 10797,
+    "forks": 1064,
+    "stars_today": 871
+   },
+   {
+    "rank": 7,
+    "name": "viarotel-org/escrcpy",
+    "url": "https://github.com/viarotel-org/escrcpy",
+    "description": "Star viarotel-org / escrcpy 📱 Display and control your Android device graphically with scrcpy.",
+    "language": "JavaScript",
+    "stars": 11609,
+    "forks": 804,
+    "stars_today": 178
    },
    {
     "rank": 8,
-    "name": "Anil-matcha/Open-Generative-AI",
-    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-    "description": "Star Anil-matcha / Open-Generative-AI Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No",
+    "name": "coreyhaines31/marketingskills",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "description": "Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
     "language": "JavaScript",
-    "stars": 28143,
-    "forks": 4995,
-    "stars_today": 88
+    "stars": 49121,
+    "forks": 7510,
+    "stars_today": 666
    },
    {
     "rank": 9,
-    "name": "OpenWhispr/openwhispr",
-    "url": "https://github.com/OpenWhispr/openwhispr",
-    "description": "Star OpenWhispr / openwhispr Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+    "name": "is-a-dev/register",
+    "url": "https://github.com/is-a-dev/register",
+    "description": "Star is-a-dev / register Grab your own sweet-looking '.is-a.dev' subdomain.",
     "language": "JavaScript",
-    "stars": 7877,
-    "forks": 964,
-    "stars_today": 85
+    "stars": 11227,
+    "forks": 29037,
+    "stars_today": 16
    },
    {
     "rank": 10,
-    "name": "poteto/hiring-without-whiteboards",
-    "url": "https://github.com/poteto/hiring-without-whiteboards",
-    "description": "Star poteto / hiring-without-whiteboards ⭐️ Companies that don't have a broken hiring process",
-    "language": "JavaScript",
-    "stars": 52049,
-    "forks": 3935,
-    "stars_today": 35
-   },
-   {
-    "rank": 11,
     "name": "Yu9191/wloc",
     "url": "https://github.com/Yu9191/wloc",
     "description": "Star Yu9191 / wloc 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
     "language": "JavaScript",
-    "stars": 10294,
+    "stars": 10312,
     "forks": 2195,
     "stars_today": 73
    },
    {
-    "rank": 12,
-    "name": "FB208/OpenBidKit_Yibiao",
-    "url": "https://github.com/FB208/OpenBidKit_Yibiao",
-    "description": "Star FB208 / OpenBidKit_Yibiao 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用",
+    "rank": 11,
+    "name": "open-gsd/gsd-core",
+    "url": "https://github.com/open-gsd/gsd-core",
+    "description": "Star open-gsd / gsd-core Git. Ship. Done - Core",
     "language": "JavaScript",
-    "stars": 2861,
-    "forks": 735,
-    "stars_today": 23
+    "stars": 9279,
+    "forks": 668,
+    "stars_today": 54
+   },
+   {
+    "rank": 12,
+    "name": "WhatDreamsCost/WhatDreamsCost-ComfyUI",
+    "url": "https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI",
+    "description": "Star WhatDreamsCost / WhatDreamsCost-ComfyUI LTX Director and a variety of other custom ComfyUI nodes and workflows",
+    "language": "JavaScript",
+    "stars": 2035,
+    "forks": 243,
+    "stars_today": 3
    },
    {
     "rank": 13,
-    "name": "openai/codex-plugin-cc",
-    "url": "https://github.com/openai/codex-plugin-cc",
-    "description": "Star openai / codex-plugin-cc Use Codex from Claude Code to review code or delegate tasks.",
+    "name": "byoungd/up",
+    "url": "https://github.com/byoungd/up",
+    "description": "Star byoungd / up An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语",
     "language": "JavaScript",
-    "stars": 32925,
-    "forks": 2285,
-    "stars_today": 37
+    "stars": 62549,
+    "forks": 6333,
+    "stars_today": 78
    },
    {
     "rank": 14,
-    "name": "pbakaus/impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "description": "Star pbakaus / impeccable The design language that makes your AI harness better at design.",
+    "name": "UseInterstellar/Interstellar",
+    "url": "https://github.com/UseInterstellar/Interstellar",
+    "description": "Star UseInterstellar / Interstellar One of the most popular modern web proxies with blazing fast speeds and a variety of games.",
     "language": "JavaScript",
-    "stars": 66648,
-    "forks": 4088,
-    "stars_today": 272
+    "stars": 2118,
+    "forks": 24559,
+    "stars_today": 5
    }
   ],
   "go": [
    {
     "rank": 1,
-    "name": "vxcontrol/pentagi",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "description": "Star vxcontrol / pentagi Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-    "language": "Go",
-    "stars": 22579,
-    "forks": 2983,
-    "stars_today": 64
-   },
-   {
-    "rank": 2,
-    "name": "ollama/ollama",
-    "url": "https://github.com/ollama/ollama",
-    "description": "Star ollama / ollama Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-    "language": "Go",
-    "stars": 180491,
-    "forks": 17776,
-    "stars_today": 98
-   },
-   {
-    "rank": 3,
-    "name": "gtsteffaniak/filebrowser",
-    "url": "https://github.com/gtsteffaniak/filebrowser",
-    "description": "Star gtsteffaniak / filebrowser 📂 Web File Browser",
-    "language": "Go",
-    "stars": 8199,
-    "forks": 427,
-    "stars_today": 36
-   },
-   {
-    "rank": 4,
-    "name": "dstotijn/hetty",
-    "url": "https://github.com/dstotijn/hetty",
-    "description": "Sponsor Star dstotijn / hetty An HTTP toolkit for security research.",
-    "language": "Go",
-    "stars": 12455,
-    "forks": 818,
-    "stars_today": 101
-   },
-   {
-    "rank": 5,
-    "name": "Tencent/WeKnora",
-    "url": "https://github.com/Tencent/WeKnora",
-    "description": "Star Tencent / WeKnora Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-    "language": "Go",
-    "stars": 21878,
-    "forks": 3160,
-    "stars_today": 160
-   },
-   {
-    "rank": 6,
-    "name": "JuliusBrussee/caveman",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "description": "Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-    "language": "Go",
-    "stars": 104385,
-    "forks": 6055,
-    "stars_today": 233
-   },
-   {
-    "rank": 7,
-    "name": "QuantumNous/new-api",
-    "url": "https://github.com/QuantumNous/new-api",
-    "description": "Star QuantumNous / new-api A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats.",
-    "language": "Go",
-    "stars": 47648,
-    "forks": 11392,
-    "stars_today": 107
-   },
-   {
-    "rank": 8,
-    "name": "stacklok/toolhive",
-    "url": "https://github.com/stacklok/toolhive",
-    "description": "Star stacklok / toolhive ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
-    "language": "Go",
-    "stars": 2146,
-    "forks": 292,
-    "stars_today": 36
-   },
-   {
-    "rank": 9,
-    "name": "Gentleman-Programming/engram",
-    "url": "https://github.com/Gentleman-Programming/engram",
-    "description": "Sponsor Star Gentleman-Programming / engram Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
-    "language": "Go",
-    "stars": 6443,
-    "forks": 672,
-    "stars_today": 43
-   },
-   {
-    "rank": 10,
-    "name": "Wei-Shaw/sub2api",
-    "url": "https://github.com/Wei-Shaw/sub2api",
-    "description": "Star Wei-Shaw / sub2api Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-    "language": "Go",
-    "stars": 40928,
-    "forks": 8519,
-    "stars_today": 157
-   },
-   {
-    "rank": 11,
-    "name": "NdoleStudio/httpsms",
-    "url": "https://github.com/NdoleStudio/httpsms",
-    "description": "Sponsor Star NdoleStudio / httpsms Send and receive SMS messages using your Android phone programmatically via a simple HTTP API",
-    "language": "Go",
-    "stars": 4992,
-    "forks": 890,
-    "stars_today": 44
-   },
-   {
-    "rank": 12,
-    "name": "prometheus/prometheus",
-    "url": "https://github.com/prometheus/prometheus",
-    "description": "Star prometheus / prometheus The Prometheus monitoring system and time series database.",
-    "language": "Go",
-    "stars": 66009,
-    "forks": 10818,
-    "stars_today": 24
-   },
-   {
-    "rank": 13,
     "name": "superplanehq/superplane",
     "url": "https://github.com/superplanehq/superplane",
     "description": "Star superplanehq / superplane Open source factory for one-shot engineering",
     "language": "Go",
-    "stars": 6339,
-    "forks": 629,
+    "stars": 6401,
+    "forks": 630,
     "stars_today": 294
    },
    {
-    "rank": 14,
-    "name": "go-playground/validator",
-    "url": "https://github.com/go-playground/validator",
-    "description": "Star go-playground / validator 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "rank": 2,
+    "name": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "description": "Star XTLS / Xray-core Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
     "language": "Go",
-    "stars": 20151,
-    "forks": 1452,
+    "stars": 41486,
+    "forks": 5865,
+    "stars_today": 29
+   },
+   {
+    "rank": 3,
+    "name": "authelia/authelia",
+    "url": "https://github.com/authelia/authelia",
+    "description": "Star authelia / authelia The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
+    "language": "Go",
+    "stars": 28843,
+    "forks": 1477,
+    "stars_today": 19
+   },
+   {
+    "rank": 4,
+    "name": "Wei-Shaw/sub2api",
+    "url": "https://github.com/Wei-Shaw/sub2api",
+    "description": "Star Wei-Shaw / sub2api Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+    "language": "Go",
+    "stars": 40983,
+    "forks": 8530,
+    "stars_today": 157
+   },
+   {
+    "rank": 5,
+    "name": "go-resty/resty",
+    "url": "https://github.com/go-resty/resty",
+    "description": "Star go-resty / resty Simple HTTP, REST, and SSE client library for Go",
+    "language": "Go",
+    "stars": 11791,
+    "forks": 804,
     "stars_today": 5
    },
    {
-    "rank": 15,
+    "rank": 6,
+    "name": "alibaba/open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "description": "Star alibaba / open-code-review Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in mult",
+    "language": "Go",
+    "stars": 22139,
+    "forks": 1651,
+    "stars_today": 61
+   },
+   {
+    "rank": 7,
+    "name": "larksuite/cli",
+    "url": "https://github.com/larksuite/cli",
+    "description": "Star larksuite / cli The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, M",
+    "language": "Go",
+    "stars": 17094,
+    "forks": 1382,
+    "stars_today": 27
+   },
+   {
+    "rank": 8,
     "name": "Project-HAMi/HAMi",
     "url": "https://github.com/Project-HAMi/HAMi",
     "description": "Star Project-HAMi / HAMi Heterogeneous GPU Sharing on Kubernetes",
     "language": "Go",
-    "stars": 4546,
+    "stars": 4554,
     "forks": 812,
     "stars_today": 18
    },
    {
-    "rank": 16,
-    "name": "argoproj/argo-cd",
-    "url": "https://github.com/argoproj/argo-cd",
-    "description": "Star argoproj / argo-cd Declarative Continuous Deployment for Kubernetes",
+    "rank": 9,
+    "name": "infiniflow/ragflow",
+    "url": "https://github.com/infiniflow/ragflow",
+    "description": "Star infiniflow / ragflow RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
     "language": "Go",
-    "stars": 24111,
-    "forks": 7827,
-    "stars_today": 13
+    "stars": 90369,
+    "forks": 10667,
+    "stars_today": 109
+   },
+   {
+    "rank": 10,
+    "name": "googleapis/mcp-toolbox",
+    "url": "https://github.com/googleapis/mcp-toolbox",
+    "description": "Star googleapis / mcp-toolbox MCP Toolbox for Databases is an open source MCP server for databases.",
+    "language": "Go",
+    "stars": 16342,
+    "forks": 1709,
+    "stars_today": 10
+   },
+   {
+    "rank": 11,
+    "name": "chaitin/SafeLine",
+    "url": "https://github.com/chaitin/SafeLine",
+    "description": "Star chaitin / SafeLine SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+    "language": "Go",
+    "stars": 22543,
+    "forks": 1528,
+    "stars_today": 26
+   },
+   {
+    "rank": 12,
+    "name": "NdoleStudio/httpsms",
+    "url": "https://github.com/NdoleStudio/httpsms",
+    "description": "Sponsor Star NdoleStudio / httpsms Send and receive SMS messages using your Android phone programmatically via a simple HTTP API",
+    "language": "Go",
+    "stars": 5015,
+    "forks": 891,
+    "stars_today": 44
+   },
+   {
+    "rank": 13,
+    "name": "prometheus/prometheus",
+    "url": "https://github.com/prometheus/prometheus",
+    "description": "Star prometheus / prometheus The Prometheus monitoring system and time series database.",
+    "language": "Go",
+    "stars": 66018,
+    "forks": 10820,
+    "stars_today": 24
+   },
+   {
+    "rank": 14,
+    "name": "chenhg5/cc-connect",
+    "url": "https://github.com/chenhg5/cc-connect",
+    "description": "Star chenhg5 / cc-connect Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with ",
+    "language": "Go",
+    "stars": 15427,
+    "forks": 1534,
+    "stars_today": 26
+   },
+   {
+    "rank": 15,
+    "name": "volcano-sh/volcano",
+    "url": "https://github.com/volcano-sh/volcano",
+    "description": "Star volcano-sh / volcano A Cloud Native Batch System (Project under CNCF)",
+    "language": "Go",
+    "stars": 5930,
+    "forks": 1532,
+    "stars_today": 4
+   },
+   {
+    "rank": 16,
+    "name": "openfga/openfga",
+    "url": "https://github.com/openfga/openfga",
+    "description": "Star openfga / openfga A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar",
+    "language": "Go",
+    "stars": 5737,
+    "forks": 487,
+    "stars_today": 6
    },
    {
     "rank": 17,
-    "name": "moby/buildkit",
-    "url": "https://github.com/moby/buildkit",
-    "description": "Star moby / buildkit concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+    "name": "syncthing/syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "description": "Sponsor Star syncthing / syncthing Open Source Continuous File Synchronization",
     "language": "Go",
-    "stars": 10246,
-    "forks": 1513,
-    "stars_today": 3
+    "stars": 88415,
+    "forks": 5457,
+    "stars_today": 35
    }
   ]
  }
