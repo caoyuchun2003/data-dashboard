@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T16:18:24Z",
+ "updated_at": "2026-09-20T20:56:07Z",
  "since": "daily",
  "languages": {
   "all": [
@@ -9,9 +9,9 @@
     "url": "https://github.com/affaan-m/ECC",
     "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "language": "JavaScript",
-    "stars": 263450,
-    "forks": 39424,
-    "stars_today": 1012
+    "stars": 263624,
+    "forks": 39445,
+    "stars_today": 837
    },
    {
     "rank": 2,
@@ -19,8 +19,8 @@
     "url": "https://github.com/BuilderIO/agent-native",
     "description": "Star BuilderIO / agent-native A framework for building agentic apps",
     "language": "TypeScript",
-    "stars": 5070,
-    "forks": 475,
+    "stars": 5143,
+    "forks": 484,
     "stars_today": 89
    },
    {
@@ -29,8 +29,8 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "language": "JavaScript",
-    "stars": 17687,
-    "forks": 983,
+    "stars": 17881,
+    "forks": 993,
     "stars_today": 2375
    },
    {
@@ -39,8 +39,8 @@
     "url": "https://github.com/trycua/cua",
     "description": "Sponsor Star trycua / cua Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
     "language": "HTML",
-    "stars": 24994,
-    "forks": 1716,
+    "stars": 25085,
+    "forks": 1726,
     "stars_today": 1012
    },
    {
@@ -49,8 +49,8 @@
     "url": "https://github.com/anthropics/financial-services",
     "description": "",
     "language": "Python",
-    "stars": 35256,
-    "forks": 5240,
+    "stars": 35313,
+    "forks": 5247,
     "stars_today": 236
    },
    {
@@ -59,8 +59,8 @@
     "url": "https://github.com/paperless-ngx/paperless-ngx",
     "description": "Star paperless-ngx / paperless-ngx A community-supported supercharged document management system: scan, index and archive all your documents",
     "language": "Python",
-    "stars": 45430,
-    "forks": 3137,
+    "stars": 45498,
+    "forks": 3141,
     "stars_today": 32
    },
    {
@@ -69,8 +69,8 @@
     "url": "https://github.com/anthropics/claude-code",
     "description": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex cod",
     "language": "TypeScript",
-    "stars": 146983,
-    "forks": 24017,
+    "stars": 147058,
+    "forks": 24039,
     "stars_today": 415
    },
    {
@@ -79,8 +79,8 @@
     "url": "https://github.com/mihail911/modern-software-dev-assignments",
     "description": "Star mihail911 / modern-software-dev-assignments Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
     "language": "Python",
-    "stars": 4474,
-    "forks": 1006,
+    "stars": 4521,
+    "forks": 1009,
     "stars_today": 174
    },
    {
@@ -89,8 +89,8 @@
     "url": "https://github.com/higgsfield-ai/higgsfield",
     "description": "Star higgsfield-ai / higgsfield Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
     "language": "Jupyter Notebook",
-    "stars": 5232,
-    "forks": 938,
+    "stars": 5320,
+    "forks": 950,
     "stars_today": 461
    },
    {
@@ -99,8 +99,8 @@
     "url": "https://github.com/Open-Dev-Society/OpenStock",
     "description": "Star Open-Dev-Society / OpenStock OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built ",
     "language": "TypeScript",
-    "stars": 16583,
-    "forks": 2126,
+    "stars": 16701,
+    "forks": 2131,
     "stars_today": 752
    },
    {
@@ -109,8 +109,8 @@
     "url": "https://github.com/coder/coder",
     "description": "Star coder / coder Secure environments for developers and their agents",
     "language": "Go",
-    "stars": 15888,
-    "forks": 1536,
+    "stars": 15986,
+    "forks": 1540,
     "stars_today": 382
    },
    {
@@ -119,9 +119,9 @@
     "url": "https://github.com/vercel-labs/json-render",
     "description": "Star vercel-labs / json-render The Generative UI framework",
     "language": "TypeScript",
-    "stars": 17105,
-    "forks": 911,
-    "stars_today": 585
+    "stars": 17211,
+    "forks": 914,
+    "stars_today": 332
    },
    {
     "rank": 13,
@@ -129,8 +129,8 @@
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents.",
     "language": "JavaScript",
-    "stars": 97507,
-    "forks": 10285,
+    "stars": 97613,
+    "forks": 10291,
     "stars_today": 729
    }
   ],
@@ -141,8 +141,8 @@
     "url": "https://github.com/anthropics/financial-services",
     "description": "",
     "language": "Python",
-    "stars": 35256,
-    "forks": 5240,
+    "stars": 35313,
+    "forks": 5247,
     "stars_today": 236
    },
    {
@@ -151,8 +151,8 @@
     "url": "https://github.com/paperless-ngx/paperless-ngx",
     "description": "Star paperless-ngx / paperless-ngx A community-supported supercharged document management system: scan, index and archive all your documents",
     "language": "Python",
-    "stars": 45430,
-    "forks": 3137,
+    "stars": 45498,
+    "forks": 3141,
     "stars_today": 32
    },
    {
@@ -161,8 +161,8 @@
     "url": "https://github.com/mihail911/modern-software-dev-assignments",
     "description": "Star mihail911 / modern-software-dev-assignments Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
     "language": "Python",
-    "stars": 4474,
-    "forks": 1006,
+    "stars": 4521,
+    "forks": 1009,
     "stars_today": 174
    },
    {
@@ -171,8 +171,8 @@
     "url": "https://github.com/browser-use/browser-harness",
     "description": "Star browser-use / browser-harness Browser Harness | Self-healing harness that enables LLMs to complete any task.",
     "language": "Python",
-    "stars": 17838,
-    "forks": 1747,
+    "stars": 17862,
+    "forks": 1748,
     "stars_today": 86
    },
    {
@@ -181,8 +181,8 @@
     "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
     "description": "Star FareedKhan-dev / train-llm-from-scratch A straightforward method for training your LLM, from downloading data to generating text.",
     "language": "Python",
-    "stars": 10146,
-    "forks": 1409,
+    "stars": 10283,
+    "forks": 1432,
     "stars_today": 196
    },
    {
@@ -201,8 +201,8 @@
     "url": "https://github.com/zhouxiaoka/autoclip",
     "description": "Star zhouxiaoka / autoclip AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
     "language": "Python",
-    "stars": 7820,
-    "forks": 1529,
+    "stars": 7858,
+    "forks": 1539,
     "stars_today": 325
    },
    {
@@ -211,8 +211,8 @@
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
     "description": "Star Significant-Gravitas / AutoGPT AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "language": "Python",
-    "stars": 187458,
-    "forks": 46007,
+    "stars": 187465,
+    "forks": 46006,
     "stars_today": 30
    },
    {
@@ -221,9 +221,9 @@
     "url": "https://github.com/openai/openai-python",
     "description": "Star openai / openai-python The official Python library for the OpenAI API",
     "language": "Python",
-    "stars": 31657,
-    "forks": 5839,
-    "stars_today": 13
+    "stars": 31661,
+    "forks": 5860,
+    "stars_today": 6
    },
    {
     "rank": 10,
@@ -231,8 +231,8 @@
     "url": "https://github.com/cactus-compute/needle",
     "description": "Star cactus-compute / needle Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcon",
     "language": "Python",
-    "stars": 11854,
-    "forks": 762,
+    "stars": 11882,
+    "forks": 763,
     "stars_today": 404
    },
    {
@@ -241,8 +241,8 @@
     "url": "https://github.com/docling-project/docling",
     "description": "Star docling-project / docling Get your documents ready for gen AI",
     "language": "Python",
-    "stars": 67390,
-    "forks": 4856,
+    "stars": 67413,
+    "forks": 4860,
     "stars_today": 629
    },
    {
@@ -251,7 +251,7 @@
     "url": "https://github.com/bbfamily/abu",
     "description": "Star bbfamily / abu 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
     "language": "Python",
-    "stars": 18663,
+    "stars": 18664,
     "forks": 4722,
     "stars_today": 8
    }
@@ -263,9 +263,9 @@
     "url": "https://github.com/affaan-m/ECC",
     "description": "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "language": "JavaScript",
-    "stars": 263450,
-    "forks": 39424,
-    "stars_today": 1012
+    "stars": 263624,
+    "forks": 39445,
+    "stars_today": 837
    },
    {
     "rank": 2,
@@ -273,8 +273,8 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "language": "JavaScript",
-    "stars": 17687,
-    "forks": 983,
+    "stars": 17881,
+    "forks": 993,
     "stars_today": 2375
    },
    {
@@ -283,8 +283,8 @@
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents.",
     "language": "JavaScript",
-    "stars": 97507,
-    "forks": 10285,
+    "stars": 97613,
+    "forks": 10291,
     "stars_today": 729
    },
    {
@@ -293,8 +293,8 @@
     "url": "https://github.com/mnfst/awesome-free-llm-apis",
     "description": "Star mnfst / awesome-free-llm-apis List of Permanent Free LLM API (API Keys)",
     "language": "JavaScript",
-    "stars": 7918,
-    "forks": 756,
+    "stars": 7937,
+    "forks": 757,
     "stars_today": 138
    },
    {
@@ -303,7 +303,7 @@
     "url": "https://github.com/BuilderIO/skills",
     "description": "Star BuilderIO / skills Skills for agents",
     "language": "JavaScript",
-    "stars": 4334,
+    "stars": 4335,
     "forks": 215,
     "stars_today": 22
    },
@@ -313,9 +313,9 @@
     "url": "https://github.com/byoungd/up",
     "description": "Star byoungd / up An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
     "language": "JavaScript",
-    "stars": 63355,
-    "forks": 6412,
-    "stars_today": 148
+    "stars": 63363,
+    "forks": 6414,
+    "stars_today": 107
    },
    {
     "rank": 7,
@@ -323,9 +323,9 @@
     "url": "https://github.com/WorldFlowAI/everything-claude-code",
     "description": "Star WorldFlowAI / everything-claude-code Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
     "language": "JavaScript",
-    "stars": 3347,
-    "forks": 520,
-    "stars_today": 99
+    "stars": 3368,
+    "forks": 522,
+    "stars_today": 74
    },
    {
     "rank": 8,
@@ -333,7 +333,7 @@
     "url": "https://github.com/akiralereal/iptv",
     "description": "Sponsor Star akiralereal / iptv 开箱即有 800+ 可稳定流畅播放频道的自托管 IPTV 直播源管理与分发系统，聚合了央视频、咪咕、央视、卫视、凤凰卫视、亚太、国际、地方台、体育赛事、B 站直播、斗鱼直播、虎牙直播等，以及自定义抓取源和订阅，并提供 EPG 节目单与聚合功能；另外还自带 GUI 可视化管理后台，支持 Docker Compose 或 Node.js ",
     "language": "JavaScript",
-    "stars": 799,
+    "stars": 800,
     "forks": 255,
     "stars_today": 37
    },
@@ -343,7 +343,7 @@
     "url": "https://github.com/fspecii/ace-step-ui",
     "description": "Star fspecii / ace-step-ui 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "language": "JavaScript",
-    "stars": 4926,
+    "stars": 4927,
     "forks": 756,
     "stars_today": 17
    },
@@ -353,8 +353,8 @@
     "url": "https://github.com/Clooos/Bubble-Card",
     "description": "Sponsor Star Clooos / Bubble-Card Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made ",
     "language": "JavaScript",
-    "stars": 4580,
-    "forks": 183,
+    "stars": 4583,
+    "forks": 184,
     "stars_today": 3
    }
   ],
@@ -365,8 +365,8 @@
     "url": "https://github.com/coder/coder",
     "description": "Star coder / coder Secure environments for developers and their agents",
     "language": "Go",
-    "stars": 15888,
-    "forks": 1536,
+    "stars": 15986,
+    "forks": 1540,
     "stars_today": 382
    },
    {
@@ -375,7 +375,7 @@
     "url": "https://github.com/guohuiyuan/go-music-dl",
     "description": "Star guohuiyuan / go-music-dl 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
     "language": "Go",
-    "stars": 4592,
+    "stars": 4602,
     "forks": 444,
     "stars_today": 178
    },
@@ -385,7 +385,7 @@
     "url": "https://github.com/asciimoo/hister",
     "description": "Sponsor Star asciimoo / hister Your own search engine",
     "language": "Go",
-    "stars": 5407,
+    "stars": 5425,
     "forks": 229,
     "stars_today": 300
    },
@@ -395,8 +395,8 @@
     "url": "https://github.com/henrygd/beszel",
     "description": "Star henrygd / beszel Lightweight server monitoring with historical data, docker stats, and alerts.",
     "language": "Go",
-    "stars": 25556,
-    "forks": 1025,
+    "stars": 25565,
+    "forks": 1027,
     "stars_today": 39
    },
    {
@@ -405,8 +405,8 @@
     "url": "https://github.com/cloudreve/cloudreve",
     "description": "Sponsor Star cloudreve / cloudreve 🌩 Self-hosted file management and sharing system, supports multiple storage providers",
     "language": "Go",
-    "stars": 28735,
-    "forks": 3897,
+    "stars": 28736,
+    "forks": 3898,
     "stars_today": 10
    },
    {
@@ -415,7 +415,7 @@
     "url": "https://github.com/dagger/dagger",
     "description": "Star dagger / dagger Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud",
     "language": "Go",
-    "stars": 16275,
+    "stars": 16278,
     "forks": 924,
     "stars_today": 5
    },
@@ -425,9 +425,9 @@
     "url": "https://github.com/weave-os/router",
     "description": "Star weave-os / router Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.",
     "language": "Go",
-    "stars": 4541,
+    "stars": 4546,
     "forks": 125,
-    "stars_today": 56
+    "stars_today": 42
    },
    {
     "rank": 8,
@@ -435,7 +435,7 @@
     "url": "https://github.com/wailsapp/wails",
     "description": "Star wailsapp / wails Create beautiful applications using Go",
     "language": "Go",
-    "stars": 36283,
+    "stars": 36287,
     "forks": 1856,
     "stars_today": 11
    },
@@ -445,9 +445,9 @@
     "url": "https://github.com/openai/tunnel-client",
     "description": "Star openai / tunnel-client Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public i",
     "language": "Go",
-    "stars": 444,
-    "forks": 87,
-    "stars_today": 10
+    "stars": 449,
+    "forks": 88,
+    "stars_today": 18
    },
    {
     "rank": 10,
@@ -455,7 +455,7 @@
     "url": "https://github.com/screego/server",
     "description": "Star screego / server screen sharing for developers https://screego.net/",
     "language": "Go",
-    "stars": 10664,
+    "stars": 10670,
     "forks": 731,
     "stars_today": 52
    },
@@ -465,8 +465,8 @@
     "url": "https://github.com/vshulcz/deja-vu",
     "description": "Star vshulcz / deja-vu One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes ",
     "language": "Go",
-    "stars": 886,
-    "forks": 86,
+    "stars": 897,
+    "forks": 87,
     "stars_today": 20
    },
    {
@@ -485,7 +485,7 @@
     "url": "https://github.com/superdurable/dex",
     "description": "Star superdurable / dex Durable Execution (D-EX) framework built on Temporal/Cadence",
     "language": "Go",
-    "stars": 116,
+    "stars": 117,
     "forks": 10,
     "stars_today": 9
    },
@@ -495,8 +495,8 @@
     "url": "https://github.com/mikefarah/yq",
     "description": "Sponsor Star mikefarah / yq yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
     "language": "Go",
-    "stars": 15984,
-    "forks": 1235,
+    "stars": 15986,
+    "forks": 1265,
     "stars_today": 9
    }
   ]
