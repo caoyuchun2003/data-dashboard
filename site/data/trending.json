@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-27T17:05:14Z",
+ "updated_at": "2026-09-27T21:28:30Z",
  "since": "daily",
  "languages": {
   "all": [
@@ -9,8 +9,8 @@
     "url": "https://github.com/paperclipai/paperclip",
     "description": "Star paperclipai / paperclip The open-source app everyone uses to manage agents at work",
     "language": "TypeScript",
-    "stars": 89081,
-    "forks": 15598,
+    "stars": 89586,
+    "forks": 15633,
     "stars_today": 2527
    },
    {
@@ -19,8 +19,8 @@
     "url": "https://github.com/vectorize-io/hindsight",
     "description": "Star vectorize-io / hindsight Hindsight: Agent Memory That Learns",
     "language": "Python",
-    "stars": 36266,
-    "forks": 4660,
+    "stars": 37083,
+    "forks": 4823,
     "stars_today": 4463
    },
    {
@@ -29,8 +29,8 @@
     "url": "https://github.com/debpalash/VoiceStudio",
     "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 l",
     "language": "Python",
-    "stars": 39278,
-    "forks": 4676,
+    "stars": 39831,
+    "forks": 4737,
     "stars_today": 3060
    },
    {
@@ -39,8 +39,8 @@
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others.",
     "language": "Python",
-    "stars": 58996,
-    "forks": 10208,
+    "stars": 59174,
+    "forks": 10222,
     "stars_today": 848
    },
    {
@@ -49,8 +49,8 @@
     "url": "https://github.com/InfinityLoop1308/PipePipe",
     "description": "Star InfinityLoop1308 / PipePipe An open-source Android app to let you browse YouTube and other services freely.",
     "language": "Shell",
-    "stars": 6473,
-    "forks": 216,
+    "stars": 6533,
+    "forks": 218,
     "stars_today": 139
    },
    {
@@ -59,9 +59,9 @@
     "url": "https://github.com/vercel-labs/scriptc",
     "description": "Star vercel-labs / scriptc TypeScript-to-Native Compiler",
     "language": "TypeScript",
-    "stars": 5296,
-    "forks": 137,
-    "stars_today": 76
+    "stars": 5355,
+    "forks": 138,
+    "stars_today": 186
    },
    {
     "rank": 7,
@@ -69,8 +69,8 @@
     "url": "https://github.com/mvschwarz/openrig",
     "description": "Star mvschwarz / openrig Multi-agent harness that runs Claude Code and Codex together as one system",
     "language": "TypeScript",
-    "stars": 771,
-    "forks": 88,
+    "stars": 887,
+    "forks": 97,
     "stars_today": 114
    },
    {
@@ -79,8 +79,8 @@
     "url": "https://github.com/dream-num/univer",
     "description": "Star dream-num / univer The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
     "language": "TypeScript",
-    "stars": 20011,
-    "forks": 1698,
+    "stars": 20104,
+    "forks": 1703,
     "stars_today": 920
    },
    {
@@ -89,8 +89,8 @@
     "url": "https://github.com/willfaust/Madeira",
     "description": "Star willfaust / Madeira Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
     "language": "C",
-    "stars": 746,
-    "forks": 151,
+    "stars": 782,
+    "forks": 152,
     "stars_today": 117
    }
   ],
@@ -101,8 +101,8 @@
     "url": "https://github.com/vectorize-io/hindsight",
     "description": "Star vectorize-io / hindsight Hindsight: Agent Memory That Learns",
     "language": "Python",
-    "stars": 36266,
-    "forks": 4660,
+    "stars": 37083,
+    "forks": 4823,
     "stars_today": 4463
    },
    {
@@ -111,8 +111,8 @@
     "url": "https://github.com/debpalash/VoiceStudio",
     "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 l",
     "language": "Python",
-    "stars": 39278,
-    "forks": 4676,
+    "stars": 39831,
+    "forks": 4737,
     "stars_today": 3060
    },
    {
@@ -121,8 +121,8 @@
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "description": "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn it. Build it. Ship it for others.",
     "language": "Python",
-    "stars": 58996,
-    "forks": 10208,
+    "stars": 59174,
+    "forks": 10222,
     "stars_today": 848
    },
    {
@@ -131,8 +131,8 @@
     "url": "https://github.com/NVIDIA/Model-Optimizer",
     "description": "Star NVIDIA / Model-Optimizer A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses dee",
     "language": "Python",
-    "stars": 4918,
-    "forks": 681,
+    "stars": 4926,
+    "forks": 682,
     "stars_today": 301
    },
    {
@@ -141,8 +141,8 @@
     "url": "https://github.com/microsoft/data-formulator",
     "description": "Star microsoft / data-formulator 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.",
     "language": "Python",
-    "stars": 17413,
-    "forks": 1709,
+    "stars": 17425,
+    "forks": 1710,
     "stars_today": 111
    },
    {
@@ -151,8 +151,8 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "Sponsor Star EbookFoundation / free-programming-books 📚 Freely available programming books",
     "language": "Python",
-    "stars": 397954,
-    "forks": 66854,
+    "stars": 397972,
+    "forks": 66855,
     "stars_today": 169
    },
    {
@@ -161,8 +161,8 @@
     "url": "https://github.com/derv82/wifit3",
     "description": "Star derv82 / wifit3 Wifite but USB-only &amp; cross-platform.",
     "language": "Python",
-    "stars": 1378,
-    "forks": 108,
+    "stars": 1402,
+    "forks": 112,
     "stars_today": 253
    },
    {
@@ -171,8 +171,8 @@
     "url": "https://github.com/django/django",
     "description": "Sponsor Star django / django The Web framework for perfectionists with deadlines.",
     "language": "Python",
-    "stars": 91210,
-    "forks": 35666,
+    "stars": 91213,
+    "forks": 35688,
     "stars_today": 27
    },
    {
@@ -181,8 +181,8 @@
     "url": "https://github.com/pytorch/pytorch",
     "description": "Star pytorch / pytorch Tensors and Dynamic neural networks in Python with strong GPU acceleration",
     "language": "Python",
-    "stars": 103414,
-    "forks": 30700,
+    "stars": 103415,
+    "forks": 30744,
     "stars_today": 56
    }
   ],
@@ -193,9 +193,9 @@
     "url": "https://github.com/nodejs/node",
     "description": "Sponsor Star nodejs / node Node.js JavaScript runtime ✨🐢🚀✨",
     "language": "JavaScript",
-    "stars": 122135,
-    "forks": 38139,
-    "stars_today": 40
+    "stars": 122140,
+    "forks": 38175,
+    "stars_today": 28
    },
    {
     "rank": 2,
@@ -203,8 +203,8 @@
     "url": "https://github.com/vercel/next.js",
     "description": "Star vercel / next.js The React Framework",
     "language": "JavaScript",
-    "stars": 142778,
-    "forks": 33244,
+    "stars": 142791,
+    "forks": 33281,
     "stars_today": 317
    },
    {
@@ -213,9 +213,9 @@
     "url": "https://github.com/androoAGI/starnet",
     "description": "Star androoAGI / starnet A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
     "language": "JavaScript",
-    "stars": 662,
-    "forks": 111,
-    "stars_today": 212
+    "stars": 672,
+    "forks": 112,
+    "stars_today": 58
    },
    {
     "rank": 4,
@@ -223,7 +223,7 @@
     "url": "https://github.com/mlmvpn/mlmvpn_windows",
     "description": "Star mlmvpn / mlmvpn_windows MLMVPN - Ultimate Anti-Filter &amp; IP Scanner",
     "language": "JavaScript",
-    "stars": 149,
+    "stars": 151,
     "forks": 24,
     "stars_today": 27
    },
@@ -233,9 +233,9 @@
     "url": "https://github.com/mrdoob/three.js",
     "description": "Sponsor Star mrdoob / three.js JavaScript 3D Library.",
     "language": "JavaScript",
-    "stars": 115979,
-    "forks": 36580,
-    "stars_today": 55
+    "stars": 115990,
+    "forks": 36578,
+    "stars_today": 50
    },
    {
     "rank": 6,
@@ -243,7 +243,7 @@
     "url": "https://github.com/fishjar/kiss-translator",
     "description": "Star fishjar / kiss-translator A simple, open source bilingual translation extension &amp; Greasemonkey script (一个简约、开源的 双语对照翻译扩展 &amp; 油猴脚本)",
     "language": "JavaScript",
-    "stars": 12653,
+    "stars": 12657,
     "forks": 617,
     "stars_today": 21
    },
@@ -253,9 +253,9 @@
     "url": "https://github.com/darkzOGx/youtube-automation-agent",
     "description": "Star darkzOGx / youtube-automation-agent 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding re",
     "language": "JavaScript",
-    "stars": 3870,
-    "forks": 1168,
-    "stars_today": 59
+    "stars": 3874,
+    "forks": 1171,
+    "stars_today": 45
    },
    {
     "rank": 8,
@@ -263,8 +263,8 @@
     "url": "https://github.com/DietrichGebert/ponytail",
     "description": "Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "language": "JavaScript",
-    "stars": 146820,
-    "forks": 7886,
+    "stars": 146878,
+    "forks": 7891,
     "stars_today": 520
    },
    {
@@ -273,8 +273,8 @@
     "url": "https://github.com/preactjs/preact",
     "description": "Sponsor Star preactjs / preact ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM.",
     "language": "JavaScript",
-    "stars": 38890,
-    "forks": 3104,
+    "stars": 38892,
+    "forks": 3153,
     "stars_today": 2
    },
    {
@@ -293,9 +293,9 @@
     "url": "https://github.com/hmjz100/LinkSwift",
     "description": "Star hmjz100 / LinkSwift 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
     "language": "JavaScript",
-    "stars": 20956,
+    "stars": 20958,
     "forks": 1270,
-    "stars_today": 68
+    "stars_today": 48
    },
    {
     "rank": 12,
@@ -303,8 +303,8 @@
     "url": "https://github.com/expressjs/express",
     "description": "Star expressjs / express Fast, unopinionated, minimalist web framework for node.",
     "language": "JavaScript",
-    "stars": 69491,
-    "forks": 25081,
+    "stars": 69494,
+    "forks": 25084,
     "stars_today": 7
    },
    {
@@ -313,7 +313,7 @@
     "url": "https://github.com/ulsklyc/yuvomi",
     "description": "Sponsor Star ulsklyc / yuvomi Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.",
     "language": "JavaScript",
-    "stars": 1587,
+    "stars": 1592,
     "forks": 152,
     "stars_today": 13
    },
@@ -323,7 +323,7 @@
     "url": "https://github.com/chuspeeism/dashi-ppt-skill",
     "description": "Star chuspeeism / dashi-ppt-skill An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
     "language": "JavaScript",
-    "stars": 8875,
+    "stars": 8880,
     "forks": 799,
     "stars_today": 46
    }
@@ -335,8 +335,8 @@
     "url": "https://github.com/git-bug/git-bug",
     "description": "Star git-bug / git-bug Distributed, offline-first bug tracker integrated in git",
     "language": "Go",
-    "stars": 10602,
-    "forks": 331,
+    "stars": 10611,
+    "forks": 332,
     "stars_today": 59
    },
    {
@@ -355,7 +355,7 @@
     "url": "https://github.com/openbao/openbao",
     "description": "Star openbao / openbao OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
     "language": "Go",
-    "stars": 8123,
+    "stars": 8131,
     "forks": 595,
     "stars_today": 232
    },
@@ -365,7 +365,7 @@
     "url": "https://github.com/putyy/res-downloader",
     "description": "Star putyy / res-downloader 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
     "language": "Go",
-    "stars": 20259,
+    "stars": 20261,
     "forks": 2517,
     "stars_today": 76
    },
@@ -375,8 +375,8 @@
     "url": "https://github.com/golang/go",
     "description": "Star golang / go The Go programming language",
     "language": "Go",
-    "stars": 139054,
-    "forks": 20681,
+    "stars": 139057,
+    "forks": 20717,
     "stars_today": 29
    },
    {
@@ -395,7 +395,7 @@
     "url": "https://github.com/dagucloud/dagu",
     "description": "Sponsor Star dagucloud / dagu Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separ",
     "language": "Go",
-    "stars": 4162,
+    "stars": 4169,
     "forks": 351,
     "stars_today": 43
    },
@@ -405,9 +405,9 @@
     "url": "https://github.com/trufflesecurity/trufflehog",
     "description": "Star trufflesecurity / trufflehog Find, verify, and analyze leaked credentials",
     "language": "Go",
-    "stars": 28121,
+    "stars": 28129,
     "forks": 2601,
-    "stars_today": 22
+    "stars_today": 59
    },
    {
     "rank": 9,
@@ -415,7 +415,7 @@
     "url": "https://github.com/Billionmail/BillionMail",
     "description": "Star Billionmail / BillionMail BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discor",
     "language": "Go",
-    "stars": 15665,
+    "stars": 15681,
     "forks": 1719,
     "stars_today": 18
    },
@@ -425,8 +425,8 @@
     "url": "https://github.com/microsoft/TypeScript",
     "description": "Star microsoft / TypeScript TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
     "language": "Go",
-    "stars": 111230,
-    "forks": 15114,
+    "stars": 111238,
+    "forks": 15147,
     "stars_today": 23
    },
    {
@@ -435,7 +435,7 @@
     "url": "https://github.com/YoanWai/agent-manager",
     "description": "Sponsor Star YoanWai / agent-manager The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.",
     "language": "Go",
-    "stars": 520,
+    "stars": 526,
     "forks": 55,
     "stars_today": 18
    },
@@ -445,8 +445,8 @@
     "url": "https://github.com/kubernetes/kubernetes",
     "description": "Star kubernetes / kubernetes Production-Grade Container Scheduling and Management",
     "language": "Go",
-    "stars": 128045,
-    "forks": 45426,
+    "stars": 128053,
+    "forks": 45454,
     "stars_today": 36
    },
    {
@@ -455,9 +455,9 @@
     "url": "https://github.com/junegunn/fzf",
     "description": "Sponsor Star junegunn / fzf 🌸 A command-line fuzzy finder",
     "language": "Go",
-    "stars": 83274,
-    "forks": 3872,
-    "stars_today": 19
+    "stars": 83278,
+    "forks": 3902,
+    "stars_today": 22
    },
    {
     "rank": 14,
@@ -465,7 +465,7 @@
     "url": "https://github.com/mudler/LocalAI",
     "description": "Sponsor Star mudler / LocalAI LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
     "language": "Go",
-    "stars": 49291,
+    "stars": 49299,
     "forks": 4473,
     "stars_today": 22
    },
@@ -476,7 +476,7 @@
     "description": "Sponsor Star spf13 / cobra A Commander for modern Go CLI interactions",
     "language": "Go",
     "stars": 44665,
-    "forks": 4347,
+    "forks": 4381,
     "stars_today": 10
    },
    {
@@ -486,7 +486,7 @@
     "description": "Star obot-platform / obot Complete AI Governance Platform from Obot AI",
     "language": "Go",
     "stars": 1071,
-    "forks": 224,
+    "forks": 225,
     "stars_today": 12
    },
    {
@@ -495,7 +495,7 @@
     "url": "https://github.com/fyne-io/fyne",
     "description": "Sponsor Star fyne-io / fyne Cross platform GUI toolkit in Go inspired by Material Design",
     "language": "Go",
-    "stars": 28721,
+    "stars": 28722,
     "forks": 1554,
     "stars_today": 8
    },
@@ -505,8 +505,8 @@
     "url": "https://github.com/cli/cli",
     "description": "Star cli / cli GitHub’s official command line tool",
     "language": "Go",
-    "stars": 46424,
-    "forks": 9090,
+    "stars": 46428,
+    "forks": 9092,
     "stars_today": 15
    }
   ]
