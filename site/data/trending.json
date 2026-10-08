@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T13:49:02Z",
+ "updated_at": "2026-10-08T23:27:44Z",
  "since": "daily",
  "languages": {
   "all": [
@@ -9,8 +9,8 @@
     "url": "https://github.com/boykopovar/AnyPS5",
     "description": "Star boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows",
     "language": "C++",
-    "stars": 13379,
-    "forks": 1025,
+    "stars": 15481,
+    "forks": 1220,
     "stars_today": 4640
    },
    {
@@ -19,8 +19,8 @@
     "url": "https://github.com/cathrynlavery/diagram-design",
     "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid ",
     "language": "HTML",
-    "stars": 45692,
-    "forks": 2925,
+    "stars": 46263,
+    "forks": 2944,
     "stars_today": 1163
    },
    {
@@ -29,8 +29,8 @@
     "url": "https://github.com/morluto/rea",
     "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries.",
     "language": "TypeScript",
-    "stars": 19808,
-    "forks": 2088,
+    "stars": 25552,
+    "forks": 2862,
     "stars_today": 7744
    },
    {
@@ -39,8 +39,8 @@
     "url": "https://github.com/mattpocock/skills",
     "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.",
     "language": "Shell",
-    "stars": 280685,
-    "forks": 23512,
+    "stars": 281018,
+    "forks": 23555,
     "stars_today": 1770
    },
    {
@@ -49,8 +49,8 @@
     "url": "https://github.com/thedotmack/claude-mem",
     "description": "Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back ",
     "language": "TypeScript",
-    "stars": 98127,
-    "forks": 8621,
+    "stars": 98432,
+    "forks": 8633,
     "stars_today": 662
    },
    {
@@ -59,8 +59,8 @@
     "url": "https://github.com/EpicGames/raddebugger",
     "description": "Star EpicGames / raddebugger A native, user-mode, multi-process, graphical debugger.",
     "language": "C",
-    "stars": 8001,
-    "forks": 390,
+    "stars": 8095,
+    "forks": 391,
     "stars_today": 283
    },
    {
@@ -69,9 +69,9 @@
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
     "language": "Python",
-    "stars": 27299,
-    "forks": 3183,
-    "stars_today": 766
+    "stars": 27505,
+    "forks": 3193,
+    "stars_today": 309
    },
    {
     "rank": 8,
@@ -79,9 +79,9 @@
     "url": "https://github.com/storytold/artcraft",
     "description": "Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
     "language": "Rust",
-    "stars": 6308,
-    "forks": 831,
-    "stars_today": 1465
+    "stars": 7791,
+    "forks": 1071,
+    "stars_today": 2510
    },
    {
     "rank": 9,
@@ -89,8 +89,8 @@
     "url": "https://github.com/liquidslr/system-design-notes",
     "description": "Star liquidslr / system-design-notes Notes of the book System Desgin Interview - An Insider's Guide",
     "language": "其他",
-    "stars": 24258,
-    "forks": 4578,
+    "stars": 24572,
+    "forks": 4597,
     "stars_today": 398
    }
   ],
@@ -101,9 +101,9 @@
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
     "language": "Python",
-    "stars": 27299,
-    "forks": 3183,
-    "stars_today": 766
+    "stars": 27505,
+    "forks": 3193,
+    "stars_today": 309
    },
    {
     "rank": 2,
@@ -111,9 +111,9 @@
     "url": "https://github.com/earthtojake/text-to-cad",
     "description": "Star earthtojake / text-to-cad Give your agent CAD superpowers.",
     "language": "Python",
-    "stars": 18378,
-    "forks": 1826,
-    "stars_today": 447
+    "stars": 18466,
+    "forks": 1833,
+    "stars_today": 162
    },
    {
     "rank": 3,
@@ -121,8 +121,8 @@
     "url": "https://github.com/ayghri/i-have-adhd",
     "description": "Sponsor Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
     "language": "Python",
-    "stars": 55641,
-    "forks": 3174,
+    "stars": 55783,
+    "forks": 3186,
     "stars_today": 915
    },
    {
@@ -131,8 +131,8 @@
     "url": "https://github.com/Tracer-Cloud/opensre",
     "description": "Star Tracer-Cloud / opensre Build your own AI SRE agents. The open source toolkit for the AI era.",
     "language": "Python",
-    "stars": 11631,
-    "forks": 1704,
+    "stars": 11653,
+    "forks": 1705,
     "stars_today": 107
    },
    {
@@ -141,7 +141,7 @@
     "url": "https://github.com/abrignoni/ALEAPP",
     "description": "Star abrignoni / ALEAPP Android Logs Events And Protobuf Parser",
     "language": "Python",
-    "stars": 973,
+    "stars": 974,
     "forks": 255,
     "stars_today": 18
    },
@@ -151,9 +151,9 @@
     "url": "https://github.com/smicallef/spiderfoot",
     "description": "Star smicallef / spiderfoot SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
     "language": "Python",
-    "stars": 23156,
-    "forks": 3712,
-    "stars_today": 193
+    "stars": 23189,
+    "forks": 3715,
+    "stars_today": 88
    },
    {
     "rank": 7,
@@ -161,8 +161,8 @@
     "url": "https://github.com/bmad-code-org/BMAD-METHOD",
     "description": "Star bmad-code-org / BMAD-METHOD Breakthrough Method for Agile Ai Driven Development",
     "language": "Python",
-    "stars": 53932,
-    "forks": 6073,
+    "stars": 53955,
+    "forks": 6074,
     "stars_today": 50
    },
    {
@@ -171,7 +171,7 @@
     "url": "https://github.com/psf/black",
     "description": "Sponsor Star psf / black The uncompromising Python code formatter",
     "language": "Python",
-    "stars": 41877,
+    "stars": 41882,
     "forks": 2910,
     "stars_today": 7
    },
@@ -181,8 +181,8 @@
     "url": "https://github.com/microsoft/agent-framework",
     "description": "Star microsoft / agent-framework A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
     "language": "Python",
-    "stars": 14009,
-    "forks": 2446,
+    "stars": 14019,
+    "forks": 2448,
     "stars_today": 24
    },
    {
@@ -191,8 +191,8 @@
     "url": "https://github.com/IAmTomShaw/f1-race-replay",
     "description": "Star IAmTomShaw / f1-race-replay An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️",
     "language": "Python",
-    "stars": 6658,
-    "forks": 877,
+    "stars": 6675,
+    "forks": 880,
     "stars_today": 216
    },
    {
@@ -201,9 +201,9 @@
     "url": "https://github.com/superdesigndev/treg",
     "description": "Star superdesigndev / treg OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
     "language": "Python",
-    "stars": 4802,
-    "forks": 390,
-    "stars_today": 416
+    "stars": 4851,
+    "forks": 392,
+    "stars_today": 118
    },
    {
     "rank": 12,
@@ -211,8 +211,8 @@
     "url": "https://github.com/CursorTouch/Windows-MCP",
     "description": "Sponsor Star CursorTouch / Windows-MCP MCP Server for Computer Use in Windows",
     "language": "Python",
-    "stars": 8265,
-    "forks": 918,
+    "stars": 8313,
+    "forks": 923,
     "stars_today": 411
    }
   ],
@@ -223,8 +223,8 @@
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents.",
     "language": "JavaScript",
-    "stars": 103223,
-    "forks": 10803,
+    "stars": 103384,
+    "forks": 10820,
     "stars_today": 873
    },
    {
@@ -233,8 +233,8 @@
     "url": "https://github.com/DuarteSantos8/openGym",
     "description": "Sponsor Star DuarteSantos8 / openGym Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import",
     "language": "JavaScript",
-    "stars": 7687,
-    "forks": 986,
+    "stars": 7981,
+    "forks": 1020,
     "stars_today": 1339
    },
    {
@@ -243,9 +243,9 @@
     "url": "https://github.com/anthropics/claude-plugins-community",
     "description": "Star anthropics / claude-plugins-community Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
     "language": "JavaScript",
-    "stars": 4577,
-    "forks": 326,
-    "stars_today": 37
+    "stars": 4583,
+    "forks": 325,
+    "stars_today": 30
    },
    {
     "rank": 4,
@@ -253,8 +253,8 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "language": "JavaScript",
-    "stars": 26448,
-    "forks": 1585,
+    "stars": 26584,
+    "forks": 1592,
     "stars_today": 836
    },
    {
@@ -263,9 +263,9 @@
     "url": "https://github.com/aunetx/blur-my-shell",
     "description": "Sponsor Star aunetx / blur-my-shell Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview",
     "language": "JavaScript",
-    "stars": 2274,
-    "forks": 176,
-    "stars_today": 14
+    "stars": 2284,
+    "forks": 178,
+    "stars_today": 22
    },
    {
     "rank": 6,
@@ -273,8 +273,8 @@
     "url": "https://github.com/tabler/tabler-icons",
     "description": "Star tabler / tabler-icons A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
     "language": "JavaScript",
-    "stars": 22075,
-    "forks": 1225,
+    "stars": 22101,
+    "forks": 1226,
     "stars_today": 84
    },
    {
@@ -283,8 +283,8 @@
     "url": "https://github.com/Leonxlnx/taste-skill",
     "description": "Sponsor Star Leonxlnx / taste-skill Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
     "language": "JavaScript",
-    "stars": 93712,
-    "forks": 6361,
+    "stars": 93812,
+    "forks": 6369,
     "stars_today": 346
    },
    {
@@ -293,49 +293,59 @@
     "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
     "description": "Star CodeWithHarry / Sigma-Web-Dev-Course Source Code for Sigma Web Development Course",
     "language": "JavaScript",
-    "stars": 11959,
+    "stars": 11962,
     "forks": 3105,
     "stars_today": 4
    },
    {
     "rank": 9,
+    "name": "XCQ0607/lxserver",
+    "url": "https://github.com/XCQ0607/lxserver",
+    "description": "Star XCQ0607 / lxserver LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。",
+    "language": "JavaScript",
+    "stars": 929,
+    "forks": 241,
+    "stars_today": 11
+   },
+   {
+    "rank": 10,
     "name": "atlassian/atlassian-mcp-server",
     "url": "https://github.com/atlassian/atlassian-mcp-server",
     "description": "Star atlassian / atlassian-mcp-server Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, ",
     "language": "JavaScript",
-    "stars": 1086,
+    "stars": 1087,
     "forks": 139,
     "stars_today": 1
    },
    {
-    "rank": 10,
+    "rank": 11,
     "name": "mailcow/mailcow-dockerized",
     "url": "https://github.com/mailcow/mailcow-dockerized",
     "description": "Sponsor Star mailcow / mailcow-dockerized mailcow: dockerized - 🐮 + 🐋 = 💕",
     "language": "JavaScript",
-    "stars": 13573,
-    "forks": 1826,
+    "stars": 13576,
+    "forks": 1825,
     "stars_today": 9
    },
    {
-    "rank": 11,
+    "rank": 12,
     "name": "github/awesome-copilot",
     "url": "https://github.com/github/awesome-copilot",
     "description": "Star github / awesome-copilot Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
     "language": "JavaScript",
-    "stars": 39807,
-    "forks": 5078,
+    "stars": 39818,
+    "forks": 5083,
     "stars_today": 46
    },
    {
-    "rank": 12,
+    "rank": 13,
     "name": "microsoft/power-platform-skills",
     "url": "https://github.com/microsoft/power-platform-skills",
     "description": "Star microsoft / power-platform-skills A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for",
     "language": "JavaScript",
-    "stars": 976,
-    "forks": 197,
-    "stars_today": 5
+    "stars": 978,
+    "forks": 198,
+    "stars_today": 7
    }
   ],
   "go": [
@@ -345,8 +355,8 @@
     "url": "https://github.com/docker/docker-agent",
     "description": "Star docker / docker-agent AI Agent Builder and Runtime by Docker Engineering",
     "language": "Go",
-    "stars": 4100,
-    "forks": 491,
+    "stars": 4229,
+    "forks": 494,
     "stars_today": 628
    },
    {
@@ -355,8 +365,8 @@
     "url": "https://github.com/hashicorp/vault",
     "description": "Star hashicorp / vault A tool for secrets management, encryption as a service, and privileged access management",
     "language": "Go",
-    "stars": 36357,
-    "forks": 4782,
+    "stars": 36359,
+    "forks": 4781,
     "stars_today": 7
    },
    {
@@ -365,9 +375,9 @@
     "url": "https://github.com/ollama/ollama",
     "description": "Star ollama / ollama Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
-    "stars": 182567,
-    "forks": 18154,
-    "stars_today": 130
+    "stars": 182406,
+    "forks": 18165,
+    "stars_today": 127
    },
    {
     "rank": 4,
@@ -376,7 +386,7 @@
     "description": "Star argoproj / argo-cd Declarative Continuous Deployment for Kubernetes",
     "language": "Go",
     "stars": 24349,
-    "forks": 7927,
+    "forks": 7929,
     "stars_today": 5
    },
    {
@@ -385,7 +395,7 @@
     "url": "https://github.com/go-acme/lego",
     "description": "Sponsor Star go-acme / lego Let's Encrypt/ACME client and library written in Go",
     "language": "Go",
-    "stars": 9911,
+    "stars": 9915,
     "forks": 1175,
     "stars_today": 4
    },
@@ -395,8 +405,8 @@
     "url": "https://github.com/llm-d/llm-d-router",
     "description": "Star llm-d / llm-d-router llm-d Router: The intelligent entry point for inference requests",
     "language": "Go",
-    "stars": 379,
-    "forks": 423,
+    "stars": 382,
+    "forks": 424,
     "stars_today": 4
    },
    {
@@ -405,8 +415,8 @@
     "url": "https://github.com/external-secrets/external-secrets",
     "description": "Sponsor Star external-secrets / external-secrets External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secr",
     "language": "Go",
-    "stars": 6896,
-    "forks": 1453,
+    "stars": 6898,
+    "forks": 1452,
     "stars_today": 2
    },
    {
@@ -415,9 +425,9 @@
     "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
     "description": "Star open-telemetry / opentelemetry-collector-contrib Contrib repository for the OpenTelemetry Collector",
     "language": "Go",
-    "stars": 4981,
-    "forks": 3986,
-    "stars_today": 5
+    "stars": 4983,
+    "forks": 3993,
+    "stars_today": 4
    },
    {
     "rank": 9,
@@ -425,7 +435,7 @@
     "url": "https://github.com/kai-scheduler/KAI-Scheduler",
     "description": "Star kai-scheduler / KAI-Scheduler KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
     "language": "Go",
-    "stars": 1558,
+    "stars": 1559,
     "forks": 295,
     "stars_today": 3
    },
@@ -436,7 +446,7 @@
     "description": "Star ltaoo / wx_channels_download 微信视频号下载器",
     "language": "Go",
     "stars": 9694,
-    "forks": 1604,
+    "forks": 1606,
     "stars_today": 17
    },
    {
@@ -445,8 +455,8 @@
     "url": "https://github.com/kyverno/kyverno",
     "description": "Star kyverno / kyverno Unified Policy as Code",
     "language": "Go",
-    "stars": 8228,
-    "forks": 1640,
+    "stars": 8230,
+    "forks": 1642,
     "stars_today": 6
    },
    {
@@ -455,8 +465,8 @@
     "url": "https://github.com/stacklok/toolhive",
     "description": "Star stacklok / toolhive ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
     "language": "Go",
-    "stars": 2249,
-    "forks": 314,
+    "stars": 2252,
+    "forks": 315,
     "stars_today": 9
    },
    {
@@ -465,8 +475,8 @@
     "url": "https://github.com/jesseduffield/lazygit",
     "description": "Sponsor Star jesseduffield / lazygit simple terminal UI for git commands",
     "language": "Go",
-    "stars": 82998,
-    "forks": 3068,
+    "stars": 83017,
+    "forks": 3069,
     "stars_today": 49
    },
    {
@@ -475,8 +485,8 @@
     "url": "https://github.com/navidrome/navidrome",
     "description": "Star navidrome / navidrome 🎧 Your Personal Streaming Service",
     "language": "Go",
-    "stars": 24036,
-    "forks": 1746,
+    "stars": 24045,
+    "forks": 1748,
     "stars_today": 25
    },
    {
@@ -485,7 +495,7 @@
     "url": "https://github.com/gitleaks/gitleaks",
     "description": "Star gitleaks / gitleaks Find secrets with Gitleaks 🔑",
     "language": "Go",
-    "stars": 29792,
+    "stars": 29796,
     "forks": 2270,
     "stars_today": 31
    },
@@ -495,8 +505,8 @@
     "url": "https://github.com/tailscale/tailscale",
     "description": "Star tailscale / tailscale The easiest, most secure way to use WireGuard and 2FA.",
     "language": "Go",
-    "stars": 37273,
-    "forks": 3298,
+    "stars": 37277,
+    "forks": 3299,
     "stars_today": 49
    }
   ]
