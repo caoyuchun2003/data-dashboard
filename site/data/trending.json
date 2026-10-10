@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T22:45:44Z",
+ "updated_at": "2026-10-10T06:04:14Z",
  "since": "daily",
  "languages": {
   "all": [
@@ -9,9 +9,9 @@
     "url": "https://github.com/morluto/rea",
     "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries.",
     "language": "TypeScript",
-    "stars": 44256,
-    "forks": 6949,
-    "stars_today": 15335
+    "stars": 52913,
+    "forks": 9856,
+    "stars_today": 14927
    },
    {
     "rank": 2,
@@ -19,9 +19,9 @@
     "url": "https://github.com/boykopovar/AnyPS5",
     "description": "Star boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows",
     "language": "C++",
-    "stars": 21976,
-    "forks": 1790,
-    "stars_today": 5925
+    "stars": 23200,
+    "forks": 1913,
+    "stars_today": 5868
    },
    {
     "rank": 3,
@@ -29,19 +29,19 @@
     "url": "https://github.com/mattpocock/skills",
     "description": "Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.",
     "language": "Shell",
-    "stars": 282576,
-    "forks": 23675,
-    "stars_today": 1696
+    "stars": 283117,
+    "forks": 23718,
+    "stars_today": 1687
    },
    {
     "rank": 4,
     "name": "cathrynlavery/diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid ",
+    "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid ",
     "language": "HTML",
-    "stars": 47804,
-    "forks": 3032,
-    "stars_today": 1744
+    "stars": 48166,
+    "forks": 3049,
+    "stars_today": 1739
    },
    {
     "rank": 5,
@@ -49,9 +49,9 @@
     "url": "https://github.com/alibaba/open-code-review",
     "description": "Star alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built",
     "language": "Go",
-    "stars": 45152,
-    "forks": 3262,
-    "stars_today": 323
+    "stars": 45464,
+    "forks": 3283,
+    "stars_today": 326
    },
    {
     "rank": 6,
@@ -59,9 +59,9 @@
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
     "language": "Python",
-    "stars": 28211,
-    "forks": 3244,
-    "stars_today": 714
+    "stars": 28400,
+    "forks": 3255,
+    "stars_today": 709
    },
    {
     "rank": 7,
@@ -69,8 +69,8 @@
     "url": "https://github.com/BerriAI/litellm",
     "description": "Sponsor Star BerriAI / litellm The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [B",
     "language": "Python",
-    "stars": 60628,
-    "forks": 12186,
+    "stars": 60774,
+    "forks": 12198,
     "stars_today": 95
    },
    {
@@ -79,9 +79,9 @@
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents.",
     "language": "JavaScript",
-    "stars": 103942,
-    "forks": 10868,
-    "stars_today": 523
+    "stars": 104154,
+    "forks": 10872,
+    "stars_today": 436
    },
    {
     "rank": 9,
@@ -89,9 +89,9 @@
     "url": "https://github.com/storytold/artcraft",
     "description": "Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
     "language": "Rust",
-    "stars": 11280,
-    "forks": 1696,
-    "stars_today": 3723
+    "stars": 12114,
+    "forks": 1847,
+    "stars_today": 3752
    },
    {
     "rank": 10,
@@ -99,9 +99,9 @@
     "url": "https://github.com/Robbyant/lingbot-map",
     "description": "Star Robbyant / lingbot-map [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
     "language": "Python",
-    "stars": 17670,
-    "forks": 1949,
-    "stars_today": 109
+    "stars": 17799,
+    "forks": 1957,
+    "stars_today": 110
    },
    {
     "rank": 11,
@@ -109,9 +109,9 @@
     "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
     "description": "Star twostraws / SwiftUI-Agent-Skill SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
     "language": "其他",
-    "stars": 5392,
-    "forks": 195,
-    "stars_today": 88
+    "stars": 5561,
+    "forks": 197,
+    "stars_today": 65
    }
   ],
   "python": [
@@ -121,9 +121,9 @@
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
     "language": "Python",
-    "stars": 28211,
-    "forks": 3244,
-    "stars_today": 714
+    "stars": 28400,
+    "forks": 3255,
+    "stars_today": 709
    },
    {
     "rank": 2,
@@ -131,8 +131,8 @@
     "url": "https://github.com/BerriAI/litellm",
     "description": "Sponsor Star BerriAI / litellm The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [B",
     "language": "Python",
-    "stars": 60628,
-    "forks": 12186,
+    "stars": 60774,
+    "forks": 12198,
     "stars_today": 95
    },
    {
@@ -141,9 +141,9 @@
     "url": "https://github.com/Robbyant/lingbot-map",
     "description": "Star Robbyant / lingbot-map [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
     "language": "Python",
-    "stars": 17670,
-    "forks": 1949,
-    "stars_today": 109
+    "stars": 17799,
+    "forks": 1957,
+    "stars_today": 110
    },
    {
     "rank": 4,
@@ -151,9 +151,9 @@
     "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
     "description": "",
     "language": "Python",
-    "stars": 1188,
-    "forks": 115,
-    "stars_today": 147
+    "stars": 1201,
+    "forks": 116,
+    "stars_today": 114
    },
    {
     "rank": 5,
@@ -161,9 +161,9 @@
     "url": "https://github.com/ayghri/i-have-adhd",
     "description": "Sponsor Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
     "language": "Python",
-    "stars": 56113,
-    "forks": 3199,
-    "stars_today": 388
+    "stars": 56156,
+    "forks": 3201,
+    "stars_today": 389
    },
    {
     "rank": 6,
@@ -171,9 +171,9 @@
     "url": "https://github.com/unslothai/unsloth",
     "description": "Sponsor Star unslothai / unsloth Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
     "language": "Python",
-    "stars": 77646,
-    "forks": 7163,
-    "stars_today": 140
+    "stars": 77660,
+    "forks": 7167,
+    "stars_today": 132
    },
    {
     "rank": 7,
@@ -181,9 +181,9 @@
     "url": "https://github.com/headroomlabs-ai/headroom",
     "description": "Star headroomlabs-ai / headroom Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, p",
     "language": "Python",
-    "stars": 74841,
-    "forks": 5802,
-    "stars_today": 120
+    "stars": 74856,
+    "forks": 5805,
+    "stars_today": 104
    },
    {
     "rank": 8,
@@ -191,9 +191,9 @@
     "url": "https://github.com/hugohe3/ppt-master",
     "description": "Star hugohe3 / ppt-master AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from ",
     "language": "Python",
-    "stars": 58711,
-    "forks": 4625,
-    "stars_today": 308
+    "stars": 58839,
+    "forks": 4644,
+    "stars_today": 372
    },
    {
     "rank": 9,
@@ -201,9 +201,9 @@
     "url": "https://github.com/datawhalechina/hello-agents",
     "description": "Star datawhalechina / hello-agents 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
     "language": "Python",
-    "stars": 82248,
-    "forks": 10203,
-    "stars_today": 193
+    "stars": 82304,
+    "forks": 10211,
+    "stars_today": 205
    },
    {
     "rank": 10,
@@ -211,9 +211,9 @@
     "url": "https://github.com/tirth8205/code-review-graph",
     "description": "Sponsor Star tirth8205 / code-review-graph Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked con",
     "language": "Python",
-    "stars": 32007,
-    "forks": 2932,
-    "stars_today": 28
+    "stars": 32011,
+    "forks": 2933,
+    "stars_today": 27
    },
    {
     "rank": 11,
@@ -221,9 +221,9 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Star K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus",
     "language": "Python",
-    "stars": 48164,
-    "forks": 4335,
-    "stars_today": 134
+    "stars": 48207,
+    "forks": 4338,
+    "stars_today": 130
    },
    {
     "rank": 12,
@@ -231,9 +231,9 @@
     "url": "https://github.com/bojieli/ai-agent-book",
     "description": "Star bojieli / ai-agent-book 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
     "language": "Python",
-    "stars": 53186,
-    "forks": 6013,
-    "stars_today": 238
+    "stars": 53248,
+    "forks": 6020,
+    "stars_today": 229
    },
    {
     "rank": 13,
@@ -241,8 +241,8 @@
     "url": "https://github.com/hiroi-sora/Umi-OCR",
     "description": "Star hiroi-sora / Umi-OCR OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
     "language": "Python",
-    "stars": 47730,
-    "forks": 4662,
+    "stars": 47749,
+    "forks": 4664,
     "stars_today": 51
    }
   ],
@@ -253,9 +253,9 @@
     "url": "https://github.com/addyosmani/agent-skills",
     "description": "Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents.",
     "language": "JavaScript",
-    "stars": 103942,
-    "forks": 10868,
-    "stars_today": 523
+    "stars": 104154,
+    "forks": 10872,
+    "stars_today": 436
    },
    {
     "rank": 2,
@@ -263,9 +263,9 @@
     "url": "https://github.com/DuarteSantos8/openGym",
     "description": "Sponsor Star DuarteSantos8 / openGym Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import",
     "language": "JavaScript",
-    "stars": 8621,
-    "forks": 1076,
-    "stars_today": 675
+    "stars": 8798,
+    "forks": 1091,
+    "stars_today": 677
    },
    {
     "rank": 3,
@@ -273,9 +273,9 @@
     "url": "https://github.com/Anil-matcha/Open-Generative-AI",
     "description": "Star Anil-matcha / Open-Generative-AI Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No",
     "language": "JavaScript",
-    "stars": 29944,
-    "forks": 5503,
-    "stars_today": 75
+    "stars": 29967,
+    "forks": 5506,
+    "stars_today": 59
    },
    {
     "rank": 4,
@@ -283,9 +283,9 @@
     "url": "https://github.com/liyupi/ai-guide",
     "description": "Star liyupi / ai-guide 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness ",
     "language": "JavaScript",
-    "stars": 20912,
-    "forks": 2302,
-    "stars_today": 61
+    "stars": 20923,
+    "forks": 2305,
+    "stars_today": 48
    },
    {
     "rank": 5,
@@ -293,8 +293,8 @@
     "url": "https://github.com/aunetx/blur-my-shell",
     "description": "Sponsor Star aunetx / blur-my-shell Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview",
     "language": "JavaScript",
-    "stars": 2291,
-    "forks": 178,
+    "stars": 2294,
+    "forks": 177,
     "stars_today": 12
    },
    {
@@ -303,9 +303,9 @@
     "url": "https://github.com/chuspeeism/dashi-taskboard",
     "description": "Star chuspeeism / dashi-taskboard 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness",
     "language": "JavaScript",
-    "stars": 3313,
+    "stars": 3318,
     "forks": 479,
-    "stars_today": 7
+    "stars_today": 8
    },
    {
     "rank": 7,
@@ -313,8 +313,8 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "description": "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "language": "JavaScript",
-    "stars": 26910,
-    "forks": 1618,
+    "stars": 27040,
+    "forks": 1620,
     "stars_today": 371
    },
    {
@@ -324,7 +324,7 @@
     "description": "Star microsoft / power-platform-skills A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for",
     "language": "JavaScript",
     "stars": 984,
-    "forks": 202,
+    "forks": 203,
     "stars_today": 4
    },
    {
@@ -333,9 +333,9 @@
     "url": "https://github.com/tt-a1i/archify",
     "description": "Star tt-a1i / archify Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
     "language": "JavaScript",
-    "stars": 81161,
-    "forks": 5477,
-    "stars_today": 1220
+    "stars": 81338,
+    "forks": 5489,
+    "stars_today": 1358
    },
    {
     "rank": 10,
@@ -343,9 +343,9 @@
     "url": "https://github.com/chaolucky18/xuexitongScript",
     "description": "Star chaolucky18 / xuexitongScript 学习通自动刷课脚本",
     "language": "JavaScript",
-    "stars": 2758,
+    "stars": 2766,
     "forks": 360,
-    "stars_today": 22
+    "stars_today": 21
    },
    {
     "rank": 11,
@@ -353,9 +353,9 @@
     "url": "https://github.com/songquanpeng/one-api",
     "description": "Star songquanpeng / one-api LLM API 管理 &amp; 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部",
     "language": "JavaScript",
-    "stars": 37106,
-    "forks": 6872,
-    "stars_today": 14
+    "stars": 37108,
+    "forks": 6874,
+    "stars_today": 16
    },
    {
     "rank": 12,
@@ -363,8 +363,8 @@
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "Star Snailclimb / JavaGuide Java 面试 &amp; 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
     "language": "JavaScript",
-    "stars": 158907,
-    "forks": 46130,
+    "stars": 158915,
+    "forks": 46129,
     "stars_today": 33
    }
   ],
@@ -375,9 +375,9 @@
     "url": "https://github.com/alibaba/open-code-review",
     "description": "Star alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built",
     "language": "Go",
-    "stars": 45152,
-    "forks": 3262,
-    "stars_today": 323
+    "stars": 45464,
+    "forks": 3283,
+    "stars_today": 326
    },
    {
     "rank": 2,
@@ -385,9 +385,9 @@
     "url": "https://github.com/ollama/ollama",
     "description": "Star ollama / ollama Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
-    "stars": 182536,
-    "forks": 18174,
-    "stars_today": 149
+    "stars": 182569,
+    "forks": 18179,
+    "stars_today": 151
    },
    {
     "rank": 3,
@@ -395,9 +395,9 @@
     "url": "https://github.com/Wei-Shaw/sub2api",
     "description": "Star Wei-Shaw / sub2api Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
     "language": "Go",
-    "stars": 43573,
-    "forks": 9342,
-    "stars_today": 90
+    "stars": 43599,
+    "forks": 9352,
+    "stars_today": 89
    },
    {
     "rank": 4,
@@ -405,8 +405,8 @@
     "url": "https://github.com/infiniflow/ragflow",
     "description": "Star infiniflow / ragflow RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
     "language": "Go",
-    "stars": 91917,
-    "forks": 10934,
+    "stars": 91938,
+    "forks": 10939,
     "stars_today": 81
    },
    {
@@ -415,7 +415,7 @@
     "url": "https://github.com/hashicorp/vault",
     "description": "Star hashicorp / vault A tool for secrets management, encryption as a service, and privileged access management",
     "language": "Go",
-    "stars": 36368,
+    "stars": 36373,
     "forks": 4782,
     "stars_today": 8
    },
@@ -425,9 +425,9 @@
     "url": "https://github.com/QuantumNous/new-api",
     "description": "Star QuantumNous / new-api A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats.",
     "language": "Go",
-    "stars": 49531,
-    "forks": 11908,
-    "stars_today": 93
+    "stars": 49574,
+    "forks": 11914,
+    "stars_today": 102
    },
    {
     "rank": 7,
@@ -435,9 +435,9 @@
     "url": "https://github.com/multica-ai/multica",
     "description": "Star multica-ai / multica Make humans and AI agents work as one team — open-source and self-hostable.",
     "language": "Go",
-    "stars": 52308,
-    "forks": 6811,
-    "stars_today": 118
+    "stars": 52345,
+    "forks": 6815,
+    "stars_today": 100
    },
    {
     "rank": 8,
@@ -445,9 +445,9 @@
     "url": "https://github.com/docker/docker-agent",
     "description": "Star docker / docker-agent AI Agent Builder and Runtime by Docker Engineering",
     "language": "Go",
-    "stars": 4312,
-    "forks": 499,
-    "stars_today": 158
+    "stars": 4327,
+    "forks": 503,
+    "stars_today": 144
    },
    {
     "rank": 9,
@@ -455,9 +455,9 @@
     "url": "https://github.com/TencentCloud/CubeSandbox",
     "description": "Star TencentCloud / CubeSandbox Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
     "language": "Go",
-    "stars": 12851,
-    "forks": 1180,
-    "stars_today": 10
+    "stars": 12859,
+    "forks": 1182,
+    "stars_today": 13
    },
    {
     "rank": 10,
@@ -465,9 +465,9 @@
     "url": "https://github.com/Tencent/WeKnora",
     "description": "Star Tencent / WeKnora Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
     "language": "Go",
-    "stars": 32826,
-    "forks": 4363,
-    "stars_today": 220
+    "stars": 32904,
+    "forks": 4374,
+    "stars_today": 217
    },
    {
     "rank": 11,
@@ -475,9 +475,9 @@
     "url": "https://github.com/fish2018/pansou",
     "description": "Star fish2018 / pansou PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
     "language": "Go",
-    "stars": 14844,
-    "forks": 3602,
-    "stars_today": 19
+    "stars": 14856,
+    "forks": 3605,
+    "stars_today": 17
    },
    {
     "rank": 12,
@@ -485,8 +485,8 @@
     "url": "https://github.com/XTLS/Xray-core",
     "description": "Star XTLS / Xray-core Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
     "language": "Go",
-    "stars": 42019,
-    "forks": 5964,
+    "stars": 42026,
+    "forks": 5962,
     "stars_today": 24
    },
    {
@@ -495,7 +495,7 @@
     "url": "https://github.com/grafana/mcp-grafana",
     "description": "Star grafana / mcp-grafana MCP server for Grafana",
     "language": "Go",
-    "stars": 3540,
+    "stars": 3545,
     "forks": 461,
     "stars_today": 6
    },
@@ -505,9 +505,9 @@
     "url": "https://github.com/vxcontrol/pentagi",
     "description": "Star vxcontrol / pentagi Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
     "language": "Go",
-    "stars": 25399,
-    "forks": 3267,
-    "stars_today": 56
+    "stars": 25417,
+    "forks": 3272,
+    "stars_today": 55
    },
    {
     "rank": 15,
@@ -515,9 +515,9 @@
     "url": "https://github.com/Agent-Field/CodeAF",
     "description": "Star Agent-Field / CodeAF Open-Source Software factory for Open Models",
     "language": "Go",
-    "stars": 371,
-    "forks": 47,
-    "stars_today": 51
+    "stars": 376,
+    "forks": 48,
+    "stars_today": 29
    },
    {
     "rank": 16,
@@ -525,9 +525,9 @@
     "url": "https://github.com/MHSanaei/3x-ui",
     "description": "Sponsor Star MHSanaei / 3x-ui Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
     "language": "Go",
-    "stars": 47715,
-    "forks": 12217,
-    "stars_today": 81
+    "stars": 47724,
+    "forks": 12226,
+    "stars_today": 73
    },
    {
     "rank": 17,
@@ -535,9 +535,9 @@
     "url": "https://github.com/trufflesecurity/trufflehog",
     "description": "Star trufflesecurity / trufflehog Find, verify, and analyze leaked credentials",
     "language": "Go",
-    "stars": 28398,
+    "stars": 28406,
     "forks": 2625,
-    "stars_today": 40
+    "stars_today": 41
    }
   ]
  }
