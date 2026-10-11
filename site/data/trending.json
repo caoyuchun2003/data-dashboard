@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T13:08:38Z",
+ "updated_at": "2026-10-11T22:08:55Z",
  "since": "daily",
  "languages": {
   "all": [
@@ -9,8 +9,8 @@
     "url": "https://github.com/morluto/rea",
     "description": "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries.",
     "language": "TypeScript",
-    "stars": 87910,
-    "forks": 19169,
+    "stars": 101131,
+    "forks": 22214,
     "stars_today": 25585
    },
    {
@@ -19,8 +19,8 @@
     "url": "https://github.com/boykopovar/AnyPS5",
     "description": "Star boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows",
     "language": "C++",
-    "stars": 28457,
-    "forks": 2418,
+    "stars": 29816,
+    "forks": 2563,
     "stars_today": 3977
    },
    {
@@ -29,8 +29,8 @@
     "url": "https://github.com/storytold/artcraft",
     "description": "Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
     "language": "Rust",
-    "stars": 16032,
-    "forks": 2586,
+    "stars": 17573,
+    "forks": 2869,
     "stars_today": 2956
    },
    {
@@ -39,8 +39,8 @@
     "url": "https://github.com/cathrynlavery/diagram-design",
     "description": "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No ",
     "language": "HTML",
-    "stars": 49625,
-    "forks": 3145,
+    "stars": 50216,
+    "forks": 3189,
     "stars_today": 1083
    },
    {
@@ -49,8 +49,8 @@
     "url": "https://github.com/bilawalsidhu/gods-eye-view",
     "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
     "language": "JavaScript",
-    "stars": 50825,
-    "forks": 10256,
+    "stars": 51505,
+    "forks": 10348,
     "stars_today": 872
    },
    {
@@ -59,8 +59,8 @@
     "url": "https://github.com/pytorch/pytorch",
     "description": "Star pytorch / pytorch Tensors and Dynamic neural networks in Python with strong GPU acceleration",
     "language": "Python",
-    "stars": 104291,
-    "forks": 32038,
+    "stars": 104443,
+    "forks": 32089,
     "stars_today": 314
    },
    {
@@ -69,8 +69,8 @@
     "url": "https://github.com/lyogavin/airllm",
     "description": "Sponsor Star lyogavin / airllm AirLLM 70B inference with single 4GB GPU",
     "language": "Jupyter Notebook",
-    "stars": 36139,
-    "forks": 3792,
+    "stars": 36408,
+    "forks": 3814,
     "stars_today": 541
    },
    {
@@ -79,8 +79,8 @@
     "url": "https://github.com/chrislgarry/Apollo-11",
     "description": "Sponsor Star chrislgarry / Apollo-11 Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
     "language": "Assembly",
-    "stars": 73908,
-    "forks": 8085,
+    "stars": 74187,
+    "forks": 8097,
     "stars_today": 496
    }
   ],
@@ -91,8 +91,8 @@
     "url": "https://github.com/pytorch/pytorch",
     "description": "Star pytorch / pytorch Tensors and Dynamic neural networks in Python with strong GPU acceleration",
     "language": "Python",
-    "stars": 104291,
-    "forks": 32038,
+    "stars": 104443,
+    "forks": 32089,
     "stars_today": 314
    },
    {
@@ -101,8 +101,8 @@
     "url": "https://github.com/Alishahryar1/free-claude-code",
     "description": "Star Alishahryar1 / free-claude-code Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the brow",
     "language": "Python",
-    "stars": 57703,
-    "forks": 9193,
+    "stars": 58032,
+    "forks": 9227,
     "stars_today": 461
    },
    {
@@ -111,8 +111,8 @@
     "url": "https://github.com/huggingface/transformers",
     "description": "Star huggingface / transformers 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and traini",
     "language": "Python",
-    "stars": 167500,
-    "forks": 34819,
+    "stars": 167521,
+    "forks": 34838,
     "stars_today": 536
    },
    {
@@ -121,8 +121,8 @@
     "url": "https://github.com/hugohe3/ppt-master",
     "description": "Star hugohe3 / ppt-master AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from ",
     "language": "Python",
-    "stars": 60108,
-    "forks": 4730,
+    "stars": 60337,
+    "forks": 4758,
     "stars_today": 1097
    },
    {
@@ -131,8 +131,8 @@
     "url": "https://github.com/debpalash/VoiceStudio",
     "description": "Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 l",
     "language": "Python",
-    "stars": 58032,
-    "forks": 6515,
+    "stars": 58608,
+    "forks": 6582,
     "stars_today": 1215
    },
    {
@@ -141,8 +141,8 @@
     "url": "https://github.com/HunxByts/GhostTrack",
     "description": "Star HunxByts / GhostTrack Useful tool to track location or mobile number",
     "language": "Python",
-    "stars": 18165,
-    "forks": 2483,
+    "stars": 18217,
+    "forks": 2486,
     "stars_today": 171
    },
    {
@@ -151,8 +151,8 @@
     "url": "https://github.com/MadsLorentzen/ai-job-search",
     "description": "Sponsor Star MadsLorentzen / ai-job-search The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep intervi",
     "language": "Python",
-    "stars": 45977,
-    "forks": 15896,
+    "stars": 46092,
+    "forks": 15921,
     "stars_today": 511
    },
    {
@@ -161,8 +161,8 @@
     "url": "https://github.com/ComposioHQ/awesome-claude-skills",
     "description": "Star ComposioHQ / awesome-claude-skills A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
     "language": "Python",
-    "stars": 76846,
-    "forks": 9032,
+    "stars": 76879,
+    "forks": 9040,
     "stars_today": 59
    },
    {
@@ -171,8 +171,8 @@
     "url": "https://github.com/microsoft/TRELLIS.2",
     "description": "Star microsoft / TRELLIS.2 Native and Compact Structured Latents for 3D Generation",
     "language": "Python",
-    "stars": 11825,
-    "forks": 1438,
+    "stars": 11849,
+    "forks": 1442,
     "stars_today": 96
    },
    {
@@ -181,7 +181,7 @@
     "url": "https://github.com/repowise-dev/repowise",
     "description": "Sponsor Star repowise-dev / repowise Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.",
     "language": "Python",
-    "stars": 7490,
+    "stars": 7525,
     "forks": 842,
     "stars_today": 68
    },
@@ -191,8 +191,8 @@
     "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
     "description": "Star XiaoYouChR / Ghost-Downloader-3 The only downloader you need. 下载器的集大成者。",
     "language": "Python",
-    "stars": 9695,
-    "forks": 634,
+    "stars": 9714,
+    "forks": 636,
     "stars_today": 117
    },
    {
@@ -201,8 +201,8 @@
     "url": "https://github.com/datawhalechina/hello-agents",
     "description": "Star datawhalechina / hello-agents 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
     "language": "Python",
-    "stars": 82529,
-    "forks": 10237,
+    "stars": 82563,
+    "forks": 10238,
     "stars_today": 126
    },
    {
@@ -211,8 +211,8 @@
     "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
     "description": "Star Shubhamsaboo / awesome-llm-apps 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
     "language": "Python",
-    "stars": 141230,
-    "forks": 20773,
+    "stars": 141281,
+    "forks": 20776,
     "stars_today": 167
    },
    {
@@ -221,8 +221,8 @@
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "description": "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
     "language": "Python",
-    "stars": 29021,
-    "forks": 3292,
+    "stars": 29105,
+    "forks": 3301,
     "stars_today": 443
    },
    {
@@ -231,8 +231,8 @@
     "url": "https://github.com/sgl-project/sglang",
     "description": "Star sgl-project / sglang SGLang is a high-performance serving framework for large language models and multimodal models.",
     "language": "Python",
-    "stars": 36985,
-    "forks": 9451,
+    "stars": 36998,
+    "forks": 9462,
     "stars_today": 28
    }
   ],
@@ -243,8 +243,8 @@
     "url": "https://github.com/bilawalsidhu/gods-eye-view",
     "description": "Star bilawalsidhu / gods-eye-view A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
     "language": "JavaScript",
-    "stars": 50825,
-    "forks": 10256,
+    "stars": 51505,
+    "forks": 10348,
     "stars_today": 872
    },
    {
@@ -253,8 +253,8 @@
     "url": "https://github.com/MiaAI-Lab/sparkDash",
     "description": "Sponsor Star MiaAI-Lab / sparkDash sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard",
     "language": "JavaScript",
-    "stars": 652,
-    "forks": 129,
+    "stars": 658,
+    "forks": 131,
     "stars_today": 22
    },
    {
@@ -263,7 +263,7 @@
     "url": "https://github.com/liyupi/ai-guide",
     "description": "Star liyupi / ai-guide 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness ",
     "language": "JavaScript",
-    "stars": 20991,
+    "stars": 20996,
     "forks": 2308,
     "stars_today": 44
    },
@@ -273,7 +273,7 @@
     "url": "https://github.com/MagicMirrorOrg/MagicMirror",
     "description": "Star MagicMirrorOrg / MagicMirror MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathr",
     "language": "JavaScript",
-    "stars": 24025,
+    "stars": 24049,
     "forks": 4576,
     "stars_today": 56
    },
@@ -283,9 +283,9 @@
     "url": "https://github.com/greensock/GSAP",
     "description": "Star greensock / GSAP GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web",
     "language": "JavaScript",
-    "stars": 29050,
-    "forks": 2248,
-    "stars_today": 54
+    "stars": 29069,
+    "forks": 2250,
+    "stars_today": 47
    },
    {
     "rank": 6,
@@ -293,9 +293,9 @@
     "url": "https://github.com/chaolucky18/xuexitongScript",
     "description": "Star chaolucky18 / xuexitongScript 学习通自动刷课脚本",
     "language": "JavaScript",
-    "stars": 2800,
-    "forks": 365,
-    "stars_today": 26
+    "stars": 2804,
+    "forks": 368,
+    "stars_today": 25
    }
   ],
   "go": [
@@ -305,9 +305,9 @@
     "url": "https://github.com/alibaba/open-code-review",
     "description": "Star alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built",
     "language": "Go",
-    "stars": 46025,
-    "forks": 3343,
-    "stars_today": 876
+    "stars": 46156,
+    "forks": 3348,
+    "stars_today": 297
    },
    {
     "rank": 2,
@@ -315,9 +315,9 @@
     "url": "https://github.com/QuantumNous/new-api",
     "description": "Star QuantumNous / new-api A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats.",
     "language": "Go",
-    "stars": 49697,
-    "forks": 11946,
-    "stars_today": 135
+    "stars": 49719,
+    "forks": 11953,
+    "stars_today": 72
    },
    {
     "rank": 3,
@@ -325,9 +325,9 @@
     "url": "https://github.com/Autumn-27/ScopeSentry",
     "description": "Star Autumn-27 / ScopeSentry ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
     "language": "Go",
-    "stars": 1786,
-    "forks": 341,
-    "stars_today": 35
+    "stars": 1792,
+    "forks": 342,
+    "stars_today": 27
    },
    {
     "rank": 4,
@@ -335,8 +335,8 @@
     "url": "https://github.com/BishopFox/sliver",
     "description": "Star BishopFox / sliver Adversary Emulation Framework",
     "language": "Go",
-    "stars": 12074,
-    "forks": 1619,
+    "stars": 12087,
+    "forks": 1621,
     "stars_today": 60
    },
    {
@@ -345,9 +345,9 @@
     "url": "https://github.com/majd/ipatool",
     "description": "Sponsor Star majd / ipatool Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
     "language": "Go",
-    "stars": 11599,
-    "forks": 973,
-    "stars_today": 48
+    "stars": 11621,
+    "forks": 974,
+    "stars_today": 42
    },
    {
     "rank": 6,
@@ -355,9 +355,9 @@
     "url": "https://github.com/Tencent/WeKnora",
     "description": "Star Tencent / WeKnora Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
     "language": "Go",
-    "stars": 33108,
-    "forks": 4410,
-    "stars_today": 216
+    "stars": 33198,
+    "forks": 4418,
+    "stars_today": 128
    },
    {
     "rank": 7,
@@ -365,9 +365,9 @@
     "url": "https://github.com/larksuite/cli",
     "description": "Star larksuite / cli The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, M",
     "language": "Go",
-    "stars": 17619,
+    "stars": 17624,
     "forks": 1390,
-    "stars_today": 23
+    "stars_today": 15
    },
    {
     "rank": 8,
@@ -375,8 +375,8 @@
     "url": "https://github.com/Project-HAMi/HAMi",
     "description": "Star Project-HAMi / HAMi Heterogeneous GPU Sharing on Kubernetes",
     "language": "Go",
-    "stars": 4678,
-    "forks": 853,
+    "stars": 4691,
+    "forks": 854,
     "stars_today": 35
    },
    {
@@ -385,8 +385,8 @@
     "url": "https://github.com/multica-ai/multica",
     "description": "Star multica-ai / multica Make humans and AI agents work as one team — open-source and self-hostable.",
     "language": "Go",
-    "stars": 52459,
-    "forks": 6832,
+    "stars": 52478,
+    "forks": 6837,
     "stars_today": 81
    },
    {
@@ -395,8 +395,8 @@
     "url": "https://github.com/gtsteffaniak/filebrowser",
     "description": "Star gtsteffaniak / filebrowser 📂 Web File Browser",
     "language": "Go",
-    "stars": 8606,
-    "forks": 464,
+    "stars": 8637,
+    "forks": 467,
     "stars_today": 11
    },
    {
@@ -405,8 +405,8 @@
     "url": "https://github.com/0xJacky/nginx-ui",
     "description": "Sponsor Star 0xJacky / nginx-ui Yet another WebUI for Nginx",
     "language": "Go",
-    "stars": 11597,
-    "forks": 895,
+    "stars": 11601,
+    "forks": 897,
     "stars_today": 11
    },
    {
@@ -415,9 +415,9 @@
     "url": "https://github.com/Wei-Shaw/sub2api",
     "description": "Star Wei-Shaw / sub2api Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
     "language": "Go",
-    "stars": 43705,
-    "forks": 9377,
-    "stars_today": 88
+    "stars": 43723,
+    "forks": 9383,
+    "stars_today": 75
    },
    {
     "rank": 13,
@@ -425,8 +425,8 @@
     "url": "https://github.com/lharries/whatsapp-mcp",
     "description": "Star lharries / whatsapp-mcp WhatsApp MCP server",
     "language": "Go",
-    "stars": 6529,
-    "forks": 1383,
+    "stars": 6537,
+    "forks": 1384,
     "stars_today": 63
    },
    {
@@ -435,8 +435,8 @@
     "url": "https://github.com/TencentCloud/CubeSandbox",
     "description": "Star TencentCloud / CubeSandbox Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
     "language": "Go",
-    "stars": 12872,
-    "forks": 1185,
+    "stars": 12879,
+    "forks": 1186,
     "stars_today": 7
    },
    {
@@ -445,7 +445,7 @@
     "url": "https://github.com/fish2018/pansou",
     "description": "Star fish2018 / pansou PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
     "language": "Go",
-    "stars": 14873,
+    "stars": 14874,
     "forks": 3611,
     "stars_today": 10
    }
